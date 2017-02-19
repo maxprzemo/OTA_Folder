@@ -1,0 +1,1247 @@
+-----------------
+#     02-19-2017
+-----------------
+
+Repository : build/ 
+--------------------
+https://github.com/TeamHorizon/android_build
+- Change No.: 035451f | Title: Add dumpvar for WITH_SU | Author: Abhisek Devkota 
+- Change No.: 4a32a04 | Title: dumpvar: Dump RECOVERY_VARIANT if not empty | Author: Paul Keith 
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: cdf0da1 | Title: Re-introduce custom charging on/off sounds | Author: Sam Mortimer 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: 476abf1 | Title: CMParts: Replace variable for setup wizard complete | Author: Paul Keith 
+
+Repository : packages/apps/Snap/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Snap
+- Change No.: ebd135d | Title: Snap: CaptureUI: remove camera2 option | Author: codeworkx 
+- Change No.: b6b13fc | Title: Snap: CaptureModule: enable and fix manual iso control | Author: codeworkx 
+- Change No.: 5710a02 | Title: Snap: CaptureModule: enable redeye reduction | Author: codeworkx 
+- Change No.: 27f8676 | Title: Snap: CaptureModule: enable noise reduction | Author: codeworkx 
+- Change No.: f17e127 | Title: Snap: CaptureModule: check if ZSL is supported before using it | Author: codeworkx 
+- Change No.: ec6475e | Title: Snap: CaptureModule: re-apply flash setting when disabling manual iso | Author: codeworkx 
+- Change No.: 21bc834 | Title: CaptureModule: Fix UI. | Author: Danny Baumann 
+- Change No.: f098f1a | Title: Snap: CaptureModule: fix preview being invisible on first start | Author: codeworkx 
+- Change No.: 96058b0 | Title: Merge branch 'cm-14.1' of https://github.com/LineageOS/android_packages_apps_Snap into HEAD | Author: dadi11 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdk
+- Change No.: 71c32e9 | Title: cmsdk: Deprecate CM_SETUP_WIZARD_COMPLETED | Author: Paul Keith 
+
+
+-----------------
+#     02-18-2017
+-----------------
+
+Repository : device/huawei/kiwi/ 
+--------------------
+https://github.com/maxprzemo/android_device_huawei_kiwi-1
+- Change No.: 96b0e7c | Title: Merge pull request #1 from LineageOS/cm-14.1 | Author: Przemysław 
+- Change No.: fc5d974 | Title: Enable SuperSu | Author: maxprzemo 
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: f4d31c7 | Title: Clean up CAF translations | Author: Abhisek Devkota 
+- Change No.: 15b30d2 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: c7bd66e | Title: Revert "base: lineage adb icon" | Author: dadi11 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: 60eb5f5 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Contacts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Contacts
+- Change No.: ec1b6a2 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: 4dcd17d | Title: Contacts: Fix quotes | Author: Michael W 
+
+Repository : packages/apps/ContactsCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_ContactsCommon
+- Change No.: c5d9c02 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: 53a8f5a | Title: ContactsCommon: Fix derp | Author: Michael W 
+
+Repository : packages/apps/Dialer/ 
+--------------------
+https://github.com/TeamHorizon/packages_apps_Dialer
+- Change No.: c299453 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/PhoneCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_PhoneCommon
+- Change No.: 7e60132 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: f4e0b4a | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Snap/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Snap
+- Change No.: cd26004 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: b8af8f1 | Title: Snap: detect and use Camera2 if available | Author: codeworkx 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdk
+- Change No.: 154550b | Title: Automatic translation import | Author: Abhisek Devkota 
+
+
+-----------------
+#     02-17-2017
+-----------------
+
+Repository : build/ 
+--------------------
+https://github.com/TeamHorizon/android_build
+- Change No.: 71f51e3 | Title: edify: Fix AssertSomeBaseband | Author: Matt Mower 
+
+Repository : device/qcom/sepolicy/ 
+--------------------
+https://github.com/LineageOS/android_device_qcom_sepolicy
+- Change No.: e4fb9ea | Title: Bluetooth: Remove stray characters | Author: Gabriele M 
+
+Repository : hardware/qcom/fm/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_fm
+- Change No.: d7414fe | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Bluetooth/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Bluetooth
+- Change No.: 8a090b9 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: 8642b59 | Title: CMParts: Add strings for sRGB | Author: dianlujitao 
+
+Repository : packages/apps/Calendar/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Calendar
+- Change No.: 2779aa2 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Camera2/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Camera2
+- Change No.: 90e6bfb | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/CellBroadcastReceiver/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_CellBroadcastReceiver
+- Change No.: bd333cf | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/CertInstaller/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_CertInstaller
+- Change No.: 2062efc | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/DeskClock/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_DeskClock
+- Change No.: a9eb88b | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Eleven/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Eleven
+- Change No.: f9fe670 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Email/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Email
+- Change No.: af5fd12 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/EmergencyInfo/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_EmergencyInfo
+- Change No.: 5f291a2 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/ExactCalculator/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_ExactCalculator
+- Change No.: d2a6752 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/FlipFlap/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_FlipFlap
+- Change No.: aaf85c5 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Gallery2/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Gallery2
+- Change No.: 987562c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/HTMLViewer/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_HTMLViewer
+- Change No.: b947f4c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/KeyChain/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_KeyChain
+- Change No.: 25cd354 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/LockClock/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_LockClock
+- Change No.: dd24750 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/ManagedProvisioning/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_ManagedProvisioning
+- Change No.: e3d6ed5 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Messaging/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Messaging
+- Change No.: 6a0f388 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Nfc/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Nfc
+- Change No.: 9748287 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/PackageInstaller/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_PackageInstaller
+- Change No.: 6c0e26f | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Recorder/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Recorder
+- Change No.: 1b9ae02 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/SafetyRegulatoryInfo/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_SafetyRegulatoryInfo
+- Change No.: e2b1567 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Snap/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Snap
+- Change No.: 198d1f8 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Stk/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Stk
+- Change No.: 05fec2e | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Tag/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Tag
+- Change No.: bc4fdb8 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Terminal/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Terminal
+- Change No.: 476eed2 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/UnifiedEmail/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_UnifiedEmail
+- Change No.: e66a6c4 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/WallpaperPicker/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_WallpaperPicker
+- Change No.: 235345a | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/inputmethods/LatinIME/ 
+--------------------
+https://github.com/LineageOS/android_packages_inputmethods_LatinIME
+- Change No.: 95836eb | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/BookmarkProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_BookmarkProvider
+- Change No.: cb94ffa | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/CalendarProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_CalendarProvider
+- Change No.: 9d234c9 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/CallLogProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_CallLogProvider
+- Change No.: c09b8a7 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/ContactsProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_ContactsProvider
+- Change No.: b57ce09 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/DownloadProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_DownloadProvider
+- Change No.: e3b13c9 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/MediaProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_MediaProvider
+- Change No.: 8cb59e5 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/TelephonyProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_TelephonyProvider
+- Change No.: 4cccef4 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/UserDictionaryProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_UserDictionaryProvider
+- Change No.: e1a7789 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/resources/devicesettings/ 
+--------------------
+https://github.com/LineageOS/android_packages_resources_devicesettings
+- Change No.: b9a3008 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/screensavers/Basic/ 
+--------------------
+https://github.com/LineageOS/android_packages_screensavers_Basic
+- Change No.: 4e39499 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/screensavers/PhotoTable/ 
+--------------------
+https://github.com/LineageOS/android_packages_screensavers_PhotoTable
+- Change No.: f99b33f | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/CMAudioService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_CMAudioService
+- Change No.: e953031 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/Telecomm/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telecomm
+- Change No.: 07399be | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/Telephony/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telephony
+- Change No.: 5163191 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/wallpapers/LivePicker/ 
+--------------------
+https://github.com/LineageOS/android_packages_wallpapers_LivePicker
+- Change No.: 1717578 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/WundergroundWeatherProvider/
+- Change No.: d5ca09b | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/YahooWeatherProvider/
+- Change No.: 60dd98e | Title: Automatic translation import | Author: Abhisek Devkota 
+
+
+-----------------
+#     02-16-2017
+-----------------
+
+Repository : build/ 
+--------------------
+https://github.com/TeamHorizon/android_build
+- Change No.: 7fafd2c | Title: build: fixes after rebase | Author: dadi11 
+
+Repository : device/huawei/kiwi/ 
+--------------------
+https://github.com/maxprzemo/android_device_huawei_kiwi-1
+- Change No.: 8f04ec7 | Title: kiwi: disable rfs_access on 8939 | Author: Sahitya Tummala 
+- Change No.: c20271b | Title: kiwi: Fix selinux denial | Author: Michael W 
+- Change No.: a3aa345 | Title: kiwi: Fix denials | Author: Michael W 
+
+Repository : device/qcom/common/ 
+--------------------
+https://github.com/LineageOS/android_device_qcom_common
+- Change No.: cb1c51f | Title: Revert "extractors: Add aptX & aptXHD to confirmed platforms" | Author: Dan Pasanen 
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: 19d981c | Title: base: fixes after rebase | Author: dadi11 
+- Change No.: 4cb5f9e | Title: Add option to hide lockscreen clock, date, & alarm text [1/2] | Author: Alex Cruz 
+- Change No.: 1403973 | Title: Hide Lockscreen emergency button [1/2] | Author: PMS22 
+
+Repository : kernel/huawei/kiwi/ 
+--------------------
+https://github.com/LineageOS/android_kernel_huawei_kiwi
+- Change No.: 5708fe3 | Title: UPSTREAM: proc: make proc_fd_permission() thread-friendly | Author: Oleg Nesterov 
+- Change No.: e846ff0 | Title: UPSTREAM: proc: actually make proc_fd_permission() thread-friendly | Author: Oleg Nesterov 
+
+Repository : packages/apps/Contacts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Contacts
+- Change No.: 30dcafd | Title: Improve CAF strings | Author: Danny Baumann 
+
+Repository : packages/apps/Dialer/ 
+--------------------
+https://github.com/TeamHorizon/packages_apps_Dialer
+- Change No.: 5c4714c | Title: Improve CAF strings | Author: Danny Baumann 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 21b8977 | Title: Settings: fixes after rebase | Author: dadi11 
+- Change No.: 440a342 | Title: Add option to hide lockscreen clock, date, & alarm text [2/2] | Author: Alex Cruz 
+- Change No.: 7868251 | Title: Hide Lockscreen emergency button [2/2] | Author: PMS22 
+- Change No.: adea598 | Title: Improvements to dashboard suggestions | Author: snak3ater 
+
+Repository : platform_manifest/ 
+--------------------
+https://github.com/TeamHorizon/platform_manifest
+- Change No.: 3ecb142 | Title: manifest: pull lineage repos that we don't modify | Author: Daniel Sikorski 
+
+Repository : system/core/ 
+--------------------
+https://github.com/TeamHorizon/android_system_core
+- Change No.: 4f4c3df | Title: Create "theme extras" directory | Author: bigrushdog 
+
+Repository : system/extras/ 
+--------------------
+https://github.com/LineageOS/android_system_extras
+- Change No.: b76b440 | Title: extras: Remove su, we have our own | Author: David Marble 
+
+Repository : vendor/qcom/binaries/ 
+--------------------
+https://github.com/TheMuppets/proprietary_vendor_qcom_binaries
+- Change No.: 5280d5c | Title: Revert "bluetooth: Add aptX & aptXHD to comfirmed platforms" | Author: Dan Pasanen 
+
+
+-----------------
+#     02-15-2017
+-----------------
+
+Repository : bootable/recovery/ 
+--------------------
+https://github.com/LineageOS/android_bootable_recovery
+- Change No.: 6d1945e | Title: Fix bldr msg file open mode when offset specified | Author: Matt Mower 
+- Change No.: 34a4e01 | Title: Rename process_key to ProcessKey | Author: 115ek 
+
+Repository : build/ 
+--------------------
+https://github.com/TeamHorizon/android_build
+- Change No.: 9c2a7fd | Title: core: Output full OTA package path to terminal | Author: Matt Mower 
+- Change No.: 86153fa | Title: Revert "build_image: Unbreak verity/FEC generation" | Author: Dan Pasanen 
+- Change No.: cac1ae6 | Title: Add proper file naming [1/2] | Author: TheBr0ken 
+- Change No.: aed1753 | Title: Add some XenonHD love and remove some CM | Author: TheBr0ken 
+- Change No.: 6241e1a | Title: Update make dirty | Author: TheBr0ken 
+- Change No.: 01c71a9 | Title: Makefile display enhancements | Author: Peter Carenza 
+- Change No.: b0dc45a | Title: Move zipscript to vendor [1/2] | Author: TheBr0ken 
+- Change No.: f7c777b | Title: fw: fix includes of html-ndk | Author: dadi11 
+- Change No.: b5ada06 | Title: add XenonHD logo to updater-script | Author: Daniel Sikorski 
+- Change No.: dbd1066 | Title: Xenonify build | Author: dadi11 
+- Change No.: 4805371 | Title: [1/3] Build: Changelog | Author: alviteri 
+- Change No.: 926b824 | Title: Changelog: Allow dev to skip changelog | Author: pcarenza 
+- Change No.: 67e1706 | Title: change naming of changelog file | Author: Daniel Sikorski 
+- Change No.: 6258fbe | Title: changelog: don't rename txt file | Author: Daniel Sikorski 
+- Change No.: 1ee91a7 | Title: Kill some log spam | Author: deadman96385 
+- Change No.: fec5883 | Title: build: update dumpvar | Author: dadi11 
+- Change No.: 325d012 | Title: Remove Feedback Directed Optimization support | Author: Joe Maples 
+- Change No.: 5ab95c2 | Title: build: force rebuild build.prop | Author: Arnav Gupta 
+- Change No.: c2a74c4 | Title: Update combined build.ninja to depend on Soong's build.ninja | Author: Dan Willemsen 
+- Change No.: 2e9b9c4 | Title: build: small ascii adjustment | Author: Daniel Sikorski 
+- Change No.: 52e1de7 | Title: build: remove Camera2 from defaults | Author: dadi11 
+- Change No.: 4275110 | Title: build: add qcom/sepolicy to global selinux policies | Author: dadi11 
+- Change No.: 4c92938 | Title: build: envsetup: Ensure that we can always run roomservice | Author: Zhao Wei Liew 
+- Change No.: bb72f10 | Title: build: Ensure that we can always find the XenonHD envsetup script | Author: Zhao Wei Liew 
+- Change No.: affa225 | Title: build: remove some packages | Author: dadi11 
+- Change No.: c3c74db | Title: build: update make dirty and installclean | Author: dadi11 
+- Change No.: 5ffe8a1 | Title: Fix an uninitialized value warning. | Author: Yunlian Jiang 
+- Change No.: 10f7d1b | Title: Don't build tests in normal builds | Author: Colin Cross 
+
+Repository : device/qcom/common/ 
+--------------------
+https://github.com/LineageOS/android_device_qcom_common
+- Change No.: 8685a57 | Title: cryptfs_hw: Move to vendor/qcom/opensource/cryptfs_hw | Author: Ethan Chen 
+
+Repository : external/e2fsprogs/ 
+--------------------
+https://github.com/LineageOS/android_external_e2fsprogs
+- Change No.: 016c2c7 | Title: e2fsck: Add e2fsck_static | Author: Gabriele M 
+
+Repository : external/ntfs-3g/ 
+--------------------
+https://github.com/LineageOS/android_external_ntfs-3g
+- Change No.: 5effca1 | Title: Loaded the fuse kernel module with no environment | Author: Jean-Pierre André 
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: 4718d8b | Title: SystemUI: Use mContext.getDrawable for battery icon | Author: LuK1337 
+- Change No.: bc2bc4b | Title: Don't reposition the clock when pulling down the notification bar | Author: Gabriele M 
+- Change No.: f7d5700 | Title: Show infinity for large notification counts | Author: d34d 
+- Change No.: 617e030 | Title: Remove system update setting [2/2] | Author: Jean-Pierre Rasquin 
+- Change No.: 1db2827 | Title: Set System Animations to 0.75 by default | Author: dadi11 
+- Change No.: 2367e8b | Title: SettingsProvider: Update icon. | Author: artas182x 
+- Change No.: 260f0d9 | Title: Notifications: Materialize missed calls icons | Author: XXMrHyde 
+- Change No.: 8c1b445 | Title: Materialize toast frames | Author: Hernán Castañon Álvarez 
+- Change No.: fa29960 | Title: allow installation of non market apps by default | Author: beanstown106 
+- Change No.: ed5536f | Title: Smooth Spinners: Makes the loading "spinner" animation smoother in non-holo apps | Author: Sar Castillo 
+- Change No.: 04bccb0 | Title: Don't refresh ui when screen off | Author: Lars Greiss 
+- Change No.: fddfe26 | Title: Added a toast to screenshot delete, why not right? | Author: Alex Cruz 
+- Change No.: fe722c7 | Title: Forward Port: Smoother Upload and Download Animation | Author: Muhammed Nazim 
+- Change No.: b9e1166 | Title: [Squashed] Remove drawables we don't need | Author: Chet Kener 
+- Change No.: f30923a | Title: Delete media tests | Author: Evan Anderson 
+- Change No.: 1b895e5 | Title: Remove unnecessary videos | Author: Janson Kang 
+- Change No.: e32019d | Title: Bluetooth: Change disconnected icon to be 40% transparent | Author: Nicholas Flintham 
+- Change No.: 8b276b4 | Title: Remove duplicate permissions | Author: Alex Cruz 
+- Change No.: 3390e75 | Title: Fix Android 7.0 GApps permisions which were causing F/C | Author: Alex Naidis 
+- Change No.: f4775f3 | Title: Turn advanced reboot on by default.  Need Settings part as well. | Author: scott 
+- Change No.: 2177850 | Title: Show icon of package associated with Toast | Author: d34d 
+- Change No.: ede2936 | Title: Fix to avoid UI freeze issue | Author: Praveena Pachipulusu 
+- Change No.: a66ae58 | Title: Fix NPE in TextUtils | Author: Ralph Bergmann 
+- Change No.: 6d7ccce | Title: Handle IllegalStateException from Surface.lockCanvas | Author: kenzyun_chen 
+- Change No.: 1a39f91 | Title: Fix ListView is not scrolled properly with arrows | Author: Jaewan Kim 
+- Change No.: 1f6b855 | Title: Handle NPE due to threading race | Author: Tom Marshall 
+- Change No.: 36f2bba | Title: Fix NPE in updateEmptyShadeView() upon screen rotation | Author: tobitege 
+- Change No.: 758e661 | Title: Handle IllegalArgumentException | Author: kaiyiz 
+- Change No.: abbdf3d | Title: Fix the NullPointerException | Author: kaiyiz 
+- Change No.: ad8fb29 | Title: Handle ActivityNotFoundException for contacts activity | Author: kaiyiz 
+- Change No.: 59effe5 | Title: Define priority for callerinfo selection | Author: Jason Kung 
+- Change No.: ad4b0b8 | Title: Fix inconsistant display number format issue in Messaging application | Author: Zhang Dongxing 
+- Change No.: 4ea755f | Title: Sometimes property service is slow to respond | Author: Gao,KunX 
+- Change No.: 7f86de9 | Title: Remove freezing window to fix UI freezing issue | Author: wyuan 
+- Change No.: 5a0a02a | Title: SystemUI: disable statusbar time refresh when screen off | Author: Jun Su 
+- Change No.: cef2683 | Title: Network Traffic [1/2] | Author: Jon Haus 
+- Change No.: 18b5e4a | Title: Link traffic icon color to text color | Author: Nico60 
+- Change No.: 10bc478 | Title: Remove network coloring and make network meter play nice with dark mode | Author: dwitherell 
+- Change No.: 898f909 | Title: Hide arrows in network traffic indicators [1/2] | Author: Nico60 
+- Change No.: 73a3e7c | Title: Remove SystemUI tests, now I can mmm the bastard | Author: LorDClockaN 
+- Change No.: 58b77c3 | Title: Base : Update default material popup animations | Author: westcripp 
+- Change No.: 6997cba | Title: SystemUI: Screenshot rotation | Author: htchoi1995 
+- Change No.: 28e3b5d | Title:     Improve scrolling cache | Author: Pawit Pornkitprasan 
+- Change No.: 48dd0806 | Title: frameworks: Fix Bluetooth OOB pairing not working for unseen devices | Author: Jakub Pawlowski 
+- Change No.: ac2ef59 | Title: frameworks: ScrollView.SavedState toString fix | Author: g4s8 
+- Change No.: 4299d66 | Title: frameworks: Check lock code exists before approving CA certs | Author: Robin Lee 
+- Change No.: a7a0758 | Title: hwui: Fix the length of partial updates system property | Author: ryang 
+- Change No.: fa8e2da | Title: frameworks: Update time_zones_by_country.xml / delete unused files | Author: Neil Fuller 
+- Change No.: 1b31116 | Title: Fix illegal argument exception when take picture. | Author: Ivan.liu 
+- Change No.: 788b960 | Title: base: New google pixel colors | Author: xdnax 
+- Change No.: abf066c | Title: sysui: New google pixel colors | Author: xdnax 
+- Change No.: ee8c669 | Title: Pixel blue for globalActions silent mode selection indicator | Author: SpiritCroc 
+- Change No.: 45d23c7 | Title: sysui: Use pixel navbar icons | Author: Miccia94 
+- Change No.: e1bb55d | Title: Merge changes from topic 'batterybar' into n7.0 | Author: Davor Bertovic 
+- Change No.: ffdb0af | Title: FWB: Ability to hide superuser status bar icon [1/2] | Author: Cristiano Matos 
+- Change No.: 9850b08 | Title: Fix Google Calendar FC | Author: Josh Chasky 
+- Change No.: 411bac3 | Title: Turn off some debugs | Author: AndroidRul3z 
+- Change No.: 8da7b71 | Title: Reduce log verbosity: Don't spam logcat | Author: fusionjack 
+- Change No.: 0206974 | Title: Disable more debugging | Author: Chet Kener 
+- Change No.: 78dd955 | Title: Fix left clock padding | Author: Altaf-Mahdi 
+- Change No.: c740798 | Title: Double tap to sleep anywhere on the lock screen [1/2] | Author: Altaf-Mahdi 
+- Change No.: 6a03387 | Title: base: Speed things up | Author: Mazda 
+- Change No.: d6ace6c | Title: Allow Python Versions Higher than 2.6 | Author: Chet Kener 
+- Change No.: bdbc748 | Title: Speed up the volume panel timeout | Author: Alex Cruz 
+- Change No.: 3e27d52 | Title: SystemUI: hide navigation bar faster in SetupWizard | Author: Roman Birg 
+- Change No.: 79a808f | Title: SystemUI: Tiny expanding improvement | Author: BigBrother1984 
+- Change No.: 5610b3d | Title: fix wrong algorithm in getMobilePowerPerPacket() | Author: yuanhuihui 
+- Change No.: d89ed88 | Title: MTU should be 1358 as per 3GPP standards, especially for LTE radio interfaces. | Author: Stacy Devino 
+- Change No.: fe2c49e | Title: Avoid the system server hang forever. | Author: songjinshi 
+- Change No.: 9618de8 | Title: Fix potential heap memory leakage. | Author: adrian_hung 
+- Change No.: a5bbea2 | Title: potential GraphRunner leak in camera effects | Author: PrimeDirective 
+- Change No.: edbcb04 | Title: Fix crash by IllegalStateException in sendAccessibilityEvent | Author: Jun Tahara 
+- Change No.: d056d8b | Title: Fix crash due to null pointer exception. | Author: daegeun.song 
+- Change No.: 9e682cf | Title: Adjusted animation timing | Author: Peter Schiller 
+- Change No.: 3bc1e15 | Title: Enable non-market apps install by default, disable verifier | Author: Chet Kener 
+- Change No.: 0bf3b5c | Title: Toast long timeout fix | Author: Brad Barnhill 
+- Change No.: 5e2ad83 | Title: Fix problem with BootAnimation exit | Author: Russell Webb 
+- Change No.: b318bd9 | Title: bootanimation: Call eglReleaseThread in threadLoop | Author: Sai Kiran Korwar 
+- Change No.: 08fa0a2 | Title: Fix for google backup and restore | Author: PlayfulGod 
+- Change No.: 3d3e066 | Title: Fix Photosphere/Camera FCs | Author: Jostein Kjønigsen 
+- Change No.: 776fd78 | Title: When handling voice key, it may cause deadlock. | Author: zhangshuxiao 
+- Change No.: 71de87d | Title: Avoid infinite relaunch ResolverActivity if no default home. | Author: riddle_hsu 
+- Change No.: 986fdf8 | Title: Frequently used OpenGL ES methods whitelisted for fast JNI path | Author: Daniil Sokolov 
+- Change No.: d96e825 | Title: Fix for wallpaper flicker on bootup on some targets | Author: Shasidhar Ganiga 
+- Change No.: 600af24 | Title: Fix previous app displaye on back key press | Author: Narendra 
+- Change No.: ee79587 | Title: Fix for reboot due to Volume State not updated in callback | Author: Shasidhar Ganiga 
+- Change No.: 7d9426a | Title: Skip ANR for processes that have been killed | Author: Tobias Lindskog 
+- Change No.: f605b08 | Title: Skip unnessary ANR when process already died. | Author: Mark Lu 
+- Change No.: e5d0297 | Title: base: longpress on user-expanded notification collapses it | Author: Daniel Koman 
+- Change No.: d39d0f4 | Title: Fragment animations are not being saved across configuration changes | Author: Alexander Mironov 
+- Change No.: 085aed9 | Title: frameworks: Fix keyboard layout notification missing issue | Author: Peter Zu 
+- Change No.: ad13293 | Title: Prevent IndexOutOfBoundsException | Author: Evisceration 
+- Change No.: 4e048b8 | Title: Update cached buffers in async mode | Author: Surajit Podder 
+- Change No.: d0ff08b | Title: Provide synchronization to setview to avoid NPE | Author: Gopal Krishna Shukla 
+- Change No.: 2c97e8f | Title: Clear pending activity launches when force stop package | Author: liulvping 
+- Change No.: c4f70bf | Title: fix wrong algorithm in WifiPowerPerPacket() | Author: yuanhuihui 
+- Change No.: f402fc7 | Title: Fix deadlock b/w ActivityManagerService and MediaSessionService | Author: Shibin George 
+- Change No.: 989c75e | Title: Resolve deadlock between ActivityManagerService and PowerManagerService | Author: Shibin George 
+- Change No.: cf6ef56 | Title: Fix the inconsistence between ProcessRecord and BroadcastQueues | Author: yangzhenyu 
+- Change No.: 4df00c3 | Title: Add metrics constant for Quick settings tiles | Author: Alex Cruz 
+- Change No.: 3d941a1 | Title: Add Expanded Desktop QS Tile | Author: Alex Cruz 
+- Change No.: c95e099 | Title: Add Screenshot QS Tile | Author: Alex Cruz 
+- Change No.: 2fa8fe6 | Title: Add adb over network QS Tile | Author: Alex Cruz 
+- Change No.: 089f944 | Title: Add Sync QS Tile | Author: Alex Cruz 
+- Change No.: 5deda27 | Title: Add Reboot/Recovery QS Tile | Author: fusionjack 
+- Change No.: 6db0a0b | Title: Add USB Tether QS Tile | Author: BestPig 
+- Change No.: 3c2d97f | Title: Add Music QS Tile | Author: kufikugel 
+- Change No.: 11f34df | Title: Add IME selector QS Tile | Author: Alex Cruz 
+- Change No.: cb23bab | Title: Add Caffeine QS Tile | Author: Keith Mok 
+- Change No.: 44a4fb6 | Title: QS: Expanded Desktop Tile Reloaded | Author: mydongistiny 
+- Change No.: 3543641 | Title: QS: Add NFC tile | Author: Roman Birg 
+- Change No.: 074ae51 | Title: Add longpress action for caffeine tile | Author: Alex Cruz 
+- Change No.: 9a7e66b | Title: Add auto brightness toggle to Quick Settings | Author: maxwen 
+- Change No.: fee9981 | Title: QS auto brightness toggle rework | Author: maxwen 
+- Change No.: 288c112 | Title: Scroll: modified velocitytracker | Author: PrimeDirective 
+- Change No.: f6da099 | Title: Fix single action power menu issue | Author: Alex Cruz 
+- Change No.: 65b1c1d | Title: Refresh USB tile | Author: Alex Cruz 
+- Change No.: 74bcafa | Title: SystemUI: Add heads up tile | Author: Michael Bestas 
+- Change No.: 502a32a | Title: SystemUI: Don't disable rotation tile | Author: snak3ater 
+- Change No.: e420637 | Title: Make PIN/password failed attempts dialog non-cancelable | Author: Edward Savage-Jones 
+- Change No.: 2af3c02 | Title: Status bar: Update notification count icons | Author: XXMrHyde 
+- Change No.: 78ecbe7 | Title: Show infinity for large notification counts | Author: d34d 
+- Change No.: 564da64 | Title: Fixes the system server crash issue caused by uncatched exception. | Author: songjinshi 
+- Change No.: aec07c0 | Title: Fix NPE in BaseStatusbar in onListenerConnected | Author: Kent Persson 
+- Change No.: 9c6d0a1 | Title: 'Do not disturb' add 15 min Steps and up to 14 Hours | Author: Sven W 
+- Change No.: 6e3fb01 | Title: Fix dangling ellipsis state | Author: Alexander Toresson 
+- Change No.: 3b673dd | Title: Fix to NullPointerException when activity is relaunched | Author: Daniel 2 Olofsson 
+- Change No.: 529f867 | Title: PDBS: bail out early if package name is not defined | Author: Alexander Martinz 
+- Change No.: 8af502d | Title: fix foreground process will be mistakenly killed when it uses content provider. | Author: yuanhuihui 
+- Change No.: 5810f8f | Title: base: no telephony check for airplane mode in globalactions | Author: Marko Man 
+- Change No.: fa1a196 | Title: InputWrapper: opt out early if session == null | Author: Lars Greiss 
+- Change No.: f36faa1 | Title: Fix NPE from AppOpsManager.checkPackage. | Author: riddle_hsu 
+- Change No.: 512d43c | Title: Fix race condition when writing UidState of appops. | Author: riddle_hsu 
+- Change No.: ffee188 | Title: Checking null in NsdService | Author: Peter Zu 
+- Change No.: db61c87 | Title: pm: do not verify system apps signatures | Author: Young-Ho Cha 
+- Change No.: 735565e | Title: base: Clean up systemUI tuner | Author: Pranav Vashi 
+- Change No.: c470c90 | Title: Quick settings: Option to disable brightness slider (1/2) | Author: Altaf-Mahdi 
+- Change No.: c66f445 | Title: QSBrighnessIcon: Make it show in notification panel | Author: LorDClockaN 
+- Change No.: 8748937 | Title: FWB: Option to disable auto brightness icon in brightness slider [1/2] | Author: Varun 
+- Change No.: 657a233 | Title: REVERT: Brightness slider option and add DU's icon hiding option | Author: tsubus 
+- Change No.: 4bd952f | Title: Fix automatic brightness QS toggle icon | Author: SpiritCroc 
+- Change No.: b026b6b | Title: Brightness slider: only enable auto brightness toggle when also enabed for QS | Author: SpiritCroc 
+- Change No.: 0bafab1 | Title: Fix Fi permissions | Author: George G 
+- Change No.: 9c89137 | Title: Fix missing dependency on R.java | Author: Colin Cross 
+- Change No.: dc23b23 | Title: Release SQLite page cache as much as it can | Author: yi.jang 
+- Change No.: b5b6018 | Title: Squash of leak & race fixes | Author: liquid0624 
+- Change No.: 5b83603 | Title: Fix the bug in replacing a fragment with itself | Author: Kang Zhang 
+- Change No.: 47237f1 | Title: Fix a NPE when putting a null-Bundle in an Intent | Author: Flamefire 
+- Change No.: 14cb041 | Title: Fix String object compare issue. | Author: Anpu Zhao 
+- Change No.: bbb6f1e | Title: Fix java crash under DhcpClient.java | Author: Damien Vagner 
+- Change No.: 322faf9 | Title: Fix race condition of job extras. | Author: riddle_hsu 
+- Change No.: e074cc6 | Title: Fix CountDownTimer handler memory leak | Author: pbr1111 
+- Change No.: 5c2a563 | Title: Fix dlfree error when delet mZipInflater | Author: Joeseph Chang 
+- Change No.: 5d049cf | Title: Keyguard: disable logspilling debug | Author: maxwen 
+- Change No.: 97c22e2 | Title: frameworks/base: Support for third party NFC features | Author: Puneet Mishra 
+- Change No.: b3d6c5a | Title: SystemUI: AssistManager - how is this supposed to ever work? | Author: maxwen 
+- Change No.: 97dfccd | Title: base: SystemUI: fix QS header action button layout | Author: maxwen 
+- Change No.: 8dcffc4 | Title: Revert "Remove DayNight theme" | Author: maxwen 
+- Change No.: a9e4290 | Title: Keyguard: fix lockscreen text color | Author: Jake Whatley 
+- Change No.: af024f2 | Title: Theme: more daynight revert fixes | Author: Marko Man 
+- Change No.: 7a3f6b0 | Title: base: add DayNight styles to public symbols | Author: maxwen 
+- Change No.: cc781f6 | Title: DocumentsUi: Various visibility fixes for text | Author: Marko Man 
+- Change No.: 39c2a1c | Title: base: DayNight Theme fixes | Author: Marko Man 
+- Change No.: fac1b2c | Title: SystemUI: Fix for white QS | Author: darkobas 
+- Change No.: dfe737c | Title: Update API after daynight commits | Author: dadi11 
+- Change No.: 3c7bf52 | Title: base: [MicroG] Allow location providers also outside of /system | Author: danielegobbetti 
+- Change No.: ac68583 | Title: SystemUI: update translations | Author: dadi11 
+- Change No.: 1d650cc | Title: Live Volume Steps [1/2] | Author: Meticulus 
+- Change No.: b02fa33 | Title: Camera : allow camera to use power key as shutter | Author: Danesh M 
+- Change No.: 539c6ab | Title: Add back slim date customizations | Author: Allan Hedelain 
+- Change No.: 201abc6 | Title: New Crowdin translations | Author: dadi11 
+- Change No.: 05e7aa1 | Title: QS: add one more tile to default ones | Author: Daniel Sikorski 
+- Change No.: 5183733 | Title: Revert "sysui: Use pixel navbar icons" | Author: dadi11 
+- Change No.: 717edd1 | Title: Pixel Navbar, reverse engineered from smali. | Author: Jacob McSwain 
+- Change No.: 20a9420 | Title: FEB: Disable/Enable screenshot sound [1/2] | Author: htchoi1995 
+- Change No.: 5d4a226 | Title: frameworks: enable Circular Icons | Author: dadi11 
+- Change No.: 97ed627 | Title: Restore multi-sim colors | Author: AndropaX 
+- Change No.: d87f0b1 | Title: New Crowdin translations | Author: dadi11 
+- Change No.: 2cd2ebd | Title: Data activity icon in statusbar | Author: Kenneth Westin 
+- Change No.: 24b2a8b | Title: Fix possible NPE | Author: Alex Cruz 
+- Change No.: f0193dc | Title: Fix disabled color of heads up qs tile and update Auto Brightness Icon (#17) | Author: Mike 
+- Change No.: 45fe6c2 | Title: aapt: Default to 0 compression ratio | Author: arter97 
+- Change No.: c87c55c | Title: sqlite query perf: better window selection in common case | Author: Snild Dolkow 
+- Change No.: 91771b5 | Title: sqlite query perf: try to reuse in-flight statements | Author: Snild Dolkow 
+- Change No.: 0701b2e | Title: sqlite query perf: clean up in-flight statements on cursor close | Author: Snild Dolkow 
+- Change No.: 62c2ec4 | Title: sqlite query perf: try to avoid getCount() | Author: Snild Dolkow 
+- Change No.: 6051e36 | Title: Fix NPE in NetdResponseCode.InterfaceClassActivity | Author: tobitege 
+- Change No.: a08493d | Title: SystemUI: Reroute Battery QS Tile tint back to original color | Author: Abdulwahab Isam 
+- Change No.: b7f0c55 | Title: Sync battery tile icon with statusbar | Author: tsubus 
+- Change No.: 69be872 | Title: BatteryTile: Clean up redundancy | Author: Pranav Vashi 
+- Change No.: 0d57b9c | Title: base: Add handling SQLiteDatabaseCorruptException | Author: muzbit.kim 
+- Change No.: 987d099 | Title: fix force stop home app may black screen. | Author: Mark Lu 
+- Change No.: 6a3bdad | Title: Fix memory corruption caused by patchCache.clear | Author: caiqinl 
+- Change No.: 351627f | Title: Post noteProcessFinish() to handler thread | Author: Shibin George 
+- Change No.: 3cce615 | Title: SettingsLib: java.lang.NullPointerException | Author: c_yongga 
+- Change No.: 008efd4 | Title: Remove the unnecessary window animation request | Author: zhenjun.zhang 
+- Change No.: 3f84338 | Title: Assist app is not launched when long-pressing on Home key | Author: Kaori Katou 
+- Change No.: d72dc04 | Title: Prevent destroy surface during window replacement. | Author: zhenjun.zhang 
+- Change No.: a9c5494 | Title: Fix potential NULL dereference errors. | Author: George Burgess IV 
+- Change No.: 05f0186 | Title: Fix keyguard flash issue | Author: longhai 
+- Change No.: 103e900 | Title: Fix thread safety issue | Author: pengzhicai 
+- Change No.: d801b15 | Title: Fix incorrect calculation of sizeof package structure | Author: Wan He 
+- Change No.: 3f28650 | Title: note the last msg that might make the Looper blocking | Author: zhoulei 
+- Change No.: d497263 | Title: Also block touches while customizer is animating. | Author: dooyoung.hwang 
+- Change No.: 4680058 | Title: Handle exception when mount service not ready. | Author: Tao Wu 
+- Change No.: e76d48f | Title: Fix logic typo in the JobPackageTracker | Author: Johan Redestig 
+- Change No.: 181281f | Title: Handle invalid pointerId | Author: Richard Folke Tullberg 
+- Change No.: 2298039 | Title: Fixed a bug where the system could dismiss ongoing notifications | Author: sungyong.an 
+- Change No.: cb3ebc0 | Title: SysUI: prevents crash caused by NetworkOverLimitActivity | Author: sungyong.an 
+- Change No.: cbea42f | Title: missing includes | Author: Mark Salyzyn 
+- Change No.: 991e9d0 | Title: Relax namespace restriction on system server classloader | Author: Dimitry Ivanov 
+- Change No.: cde16c8 | Title: Fix static analyzer warnings. | Author: George Burgess IV 
+- Change No.: 54f723f | Title: Rename the backup file to base file when backup exists. | Author: songjinshi 
+- Change No.: 2953e86 | Title: Use async thread for performPoll in NetworkStats | Author: Wang Haoran 
+- Change No.: 364d044 | Title: SystemUI: Reload the EndNowButton label | Author: Johan Redestig 
+- Change No.: ca60394 | Title: Checking mCurrentValue twice instead of mCurrentValues | Author: Thomas Leplus 
+- Change No.: 54f9f67 | Title: Avoid ConcurrentModificationException in method dump | Author: pence_chen 
+- Change No.: 20f04c6 | Title: suppress the accessibility IllegalStateException | Author: yinghsuan_wang 
+- Change No.: c85bf4f | Title: SharedStorageAgent: Fix onRestore | Author: Pat Erley 
+- Change No.: 65baa27 | Title: Update config.xml | Author: Manoj 
+- Change No.: 86446ff | Title: Fix batterySendBroadcast not synchronized issue. | Author: Mark Lu 
+- Change No.: dac4623 | Title: Fix type casting for broadcast delay with service | Author: riddle_hsu 
+- Change No.: bad2735 | Title: Skip uninstalled package for getPackagesForUid() | Author: liulvping 
+- Change No.: 5949980 | Title: Bring up Service if not schedule to restart | Author: louis_chang 
+- Change No.: 53ad5bb | Title: clean notification before delete the activity | Author: Peter Zu 
+- Change No.: d992a30 | Title: Do not kill attaching process when removing task. | Author: riddle_hsu 
+- Change No.: 213f66b | Title: Also remove activity record if its app is removed. | Author: riddle_hsu 
+- Change No.: c9084b3 | Title: We should notify the foreground activity changes immediately. | Author: guotao.deng 
+- Change No.: d2250bd | Title: remove duplicated incorrectly code in ProcessRecord | Author: yuanhuihui 
+- Change No.: ba44dcd | Title: fix service could not be started correctly when app.thread == null | Author: yuanhuihui 
+- Change No.: cd05745 | Title: clean up pending broadcast receviers when force stop package | Author: yuanhuihui 
+- Change No.: 1e6ead0 | Title: Handle application crash in new thread. | Author: songjinshi 
+- Change No.: 4e33d8d | Title: Do not stop while mCurrentClient is already in the process of stop. | Author: baek.kyoungmin 
+- Change No.: 2c5b927 | Title: Prevent some alarm pathologies | Author: hp_huang 
+- Change No.: d439e2b | Title: Avoid needless Integer.valueOf() object allocation. | Author: Tobias Thierer 
+- Change No.: 4158a70 | Title: Integer.valueOf() -> Integer.parseInt() to avoid allocation. | Author: Tobias Thierer 
+- Change No.: 5efdeff | Title: Fix warning: Potential leak of memory pointed to by 'set' | Author: Yunlian Jiang 
+- Change No.: 9eb4883 | Title: Zygote: Deleted files can still be fstat(restat) success. | Author: songjinshi 
+- Change No.: 3793cb6 | Title: QS: Add Ambient Display Tile | Author: Decad3nce 
+- Change No.: 99f87ab | Title: SystemUI: Use own drawables for QS expand icon | Author: Ivan Iskandar 
+- Change No.: 7c7e293 | Title: SystemUI: Expose QS edit item decoration background color | Author: Ivan Iskandar 
+- Change No.: 44b0f29 | Title: remove the extra synchronized lock | Author: yuanhuihui 
+- Change No.: 6de1d9a | Title: Incorrect key object in EphemeralIntentResolver.filterResults | Author: You Kim 
+- Change No.: dcb22ea | Title: OMS7-N: Support tagging resources as OK to overlay [1/11] | Author: Mårten Kongstad 
+- Change No.: 0c804c7 | Title: OMS7-N: Introduce the OverlayManagerService [2/11] | Author: Mårten Kongstad 
+- Change No.: 5aa52bf | Title: OMS7-N: Integrate OverlayManagerService into framework [3/11] | Author: Mårten Kongstad 
+- Change No.: af85e75 | Title: OMS7-N: Set EXTRA_REPLACING correctly in ACTION_PACKAGE_ADDED [4/11] | Author: Mårten Kongstad 
+- Change No.: 609bb69 | Title: OMS7-N: idmap: suppress print for padded resources [5/11] | Author: Mårten Kongstad 
+- Change No.: d606f3b | Title: OMS7-N: Fix memory leak during idmap creation [6/11] | Author: Mårten Kongstad 
+- Change No.: 0638f56 | Title: OMS7-N: installd: add command 'rmidmap' [7/11] | Author: Mårten Kongstad 
+- Change No.: 90068c4 | Title: OMS7-N: Disable Zygote preloaded drawables [8/11] | Author: Josh Guilfoyle 
+- Change No.: 052f093 | Title: OMS7-N: Persistence on boot through OverlayManagerServiceImpl [9/11] | Author: Nicholas Chum 
+- Change No.: 1259ecb | Title: OMS7-N: Do not enforce code policy limiting overlay installation [10/11] | Author: Nicholas Chum 
+- Change No.: 9515e9b | Title: OMS7-N: Implement multi-target enable/disable and disable-all [11/11] | Author: Jacob McSwain 
+- Change No.: 5c4d388 | Title: Resource Runtime Overlay: Repair damages to Zygote runtime overlays | Author: Nicholas Chum 
+- Change No.: 416025f | Title: OMS7-N: ApplicationsState: add filter for Substratum overlays [1/2] | Author: George G 
+- Change No.: c783121 | Title: N-Extras: Add dynamic theme BootAnimation support | Author: 0xD34D 
+- Change No.: f41aada | Title: N-Extras: AudioService: Allow system effect sounds to be themed | Author: Nicholas Chum 
+- Change No.: 7be034e | Title: N-Extras: Add dynamic theme fonts support | Author: 0xD34D 
+- Change No.: fb3e0ca | Title: Themes: Expose resolver hardcoded colors | Author: Dave Kover 
+- Change No.: c0ce1f8 | Title: Themes: Allow Immersive cling colors to be fully themed | Author: Nicholas Chum 
+- Change No.: c55cd3e | Title: Themes: Allow Permission Icons to be fully themed | Author: Nicholas Chum 
+- Change No.: 3784f6f | Title: Themes: Allow Navbar ripple color to be themed | Author: Dave Kover 
+- Change No.: 9b129ac | Title: Themes: Make resolver list fully themeable | Author: Thyrus11 
+- Change No.: cd4f2c2 | Title: Themes: Allow Resolver List BG to be fully themed | Author: Nicholas Chum 
+- Change No.: f885d0d | Title: SystemUI: Expose QS edit item decoration background color | Author: Ivan Iskandar 
+- Change No.: 2b1a16c | Title: Notifications: Expose a bool to disable dynamic colors | Author: Nicholas Chum 
+- Change No.: 60b9030 | Title: Allow prevention of doze notification color inversion | Author: Daniel Koman 
+- Change No.: 03718ca | Title: Themes: Expose nav bar tuner colors | Author: daveyannihilation 
+- Change No.: e43e75a | Title: OMS7-N: ApplicationsState: add filter for Substratum icon overlays [1/2] | Author: Kuba Schenk 
+- Change No.: 7484894 | Title: Fix build after OMS | Author: LorDClockaN 
+- Change No.: d61a170 | Title: Notification dynamic colors bool compatible with OMS7 | Author: George G 
+- Change No.: f7fc90a | Title: OMS7 compatible 'Ambient notification inversion' | Author: George G 
+- Change No.: 7d45651 | Title: Allow custom alpha for notification shade bg color | Author: Simao Gomes Viana 
+- Change No.: a143708 | Title: Themes: Expose various QuickSettings text colors | Author: Niklas Schnettler (Sh4dowSoul) 
+- Change No.: 3c6ab19 | Title: OMS: StrictMode and files under /data/system/theme/ | Author: mickybart 
+- Change No.: 0dedde3 | Title: webview_packages: prefer the more powerful webview packages | Author: mfonville 
+- Change No.: 8d61a96 | Title: webview_packages: correct signature definition for Chrome Stable | Author: Alex Naidis 
+- Change No.: a33dd40 | Title: base: Add membar to recents options [1/2] | Author: Dave Kessler 
+- Change No.: 5523e4d | Title: base: membar: translate free ram | Author: dadi11 
+- Change No.: 9e0c6d9 | Title: Themes: Expose QS battery | Author: Abdulwahab Isam 
+- Change No.: b0785bc | Title: OMS: Introduce MODIFY_OVERLAYS permission for user apps | Author: bigrushdog 
+- Change No.: fdd4f4e | Title: New Crowdin translations | Author: dadi11 
+- Change No.: c969fe6 | Title: Custom QS rows/columns [1/2] | Author: XXMrHyde 
+- Change No.: 9aba2b5 | Title: OpaLayout: Fix pixel animation in landscape | Author: Nate 
+- Change No.: 5f1c224 | Title: Pixel navbar: allow disabling based on config | Author: George G 
+- Change No.: c691899 | Title: Pixel Navbar animation toggle [1/2] | Author: beanstown106 
+- Change No.: 1bf6924 | Title: Disable Lockscreen Media Art [1/2] | Author: beanstown106 
+- Change No.: 5193b19 | Title: Keyguard: Forward port lockscreen quick unlock (1/2) | Author: Matt Mower 
+- Change No.: 34a7f6c | Title: Disable PIN entry after successful quick unlock | Author: Veeti Paananen 
+- Change No.: b663a76 | Title: Keyguard: fix quick unlock for Android N. | Author: hedwig34 
+- Change No.: a62470c | Title: Fwb: Port PA battery circle style [2/3] | Author: Willi Ye 
+- Change No.: b9b29ef | Title: FWB: Move pixel navbar animation toggle to CMSettings | Author: iceandfire 
+- Change No.: 2f683ca | Title: base: update xenonhd strings | Author: Daniel Sikorski 
+- Change No.: 9cbac27 | Title: circlebattery: bring back pulsing animation | Author: Willi Ye 
+- Change No.: 2baba3b | Title: Add three-fingers-swipe to screenshot [2/2] | Author: maxwen 
+- Change No.: b622aa0 | Title: Fw_base - Long press back to kill configurable timeout [1/2] | Author: Danesh Mondegarian 
+- Change No.: 8eae27e | Title: SystemUI: Expose switch bar title | Author: daveyannihilation 
+- Change No.: 49193d0 | Title: circlebattery: bring back pulsing animation | Author: Willi Ye 
+- Change No.: 504782f | Title: Fix right lockscreen shortcut icon resetting | Author: beanstown106 
+- Change No.: 64ff26c | Title: Notifications: Materialize missed calls icons | Author: XXMrHyde 
+- Change No.: 63208c2 | Title: Update screenshot notification icon | Author: Arz Bhatia 
+- Change No.: 1a78e46 | Title: SystemUI: FIX No sim - airplane mode padding | Author: George G 
+- Change No.: f0edf1e | Title: base: Change toast frames color to some better look ones | Author: Hernán Castañon Álvarez 
+- Change No.: f13a8c6 | Title: Custom ambient display settings (1/2) | Author: beanstown106 
+- Change No.: 25251cd | Title: Ambient display: Battery status (1/2) | Author: XXMrHyde 
+- Change No.: db47011 | Title: doze: allow grayscale even if invert boolean is false | Author: Daniel Koman 
+- Change No.: 9b2593d | Title: OMS: StrictMode and files under /data/system/theme/ | Author: mickybart 
+- Change No.: 7ef7529 | Title: Themes: Expose manifest styles for themes | Author: Bryan Owens 
+- Change No.: 9778de4 | Title: Add Clear All Button to Recents [1/2] | Author: cristianomatos 
+- Change No.: 7df6c7c | Title: Recents fab button improvements | Author: ezio84 
+- Change No.: 3fe6ed5 | Title: base: Xenonize values | Author: dadi11 
+- Change No.: b0f5843 | Title: New Crowdin translations | Author: dadi11 
+- Change No.: 2039d76 | Title: Add new feature of One-hand UI Mode | Author: Bangbang Huang 
+- Change No.: 85b9274 | Title: One handed mode toggle [1/3] | Author: beanstown106 
+- Change No.: b70c7ab | Title: FWB: Dashboard customizations | Author: Alex 
+- Change No.: b761dc0 | Title: Fix battery text gap issue | Author: Alex Cruz 
+- Change No.: 18ec2ba | Title: DefaultPermissionGrantPolicy: Pass correct arguments | Author: Alex Naidis 
+- Change No.: d0d2e68 | Title: Adjusted animation timing | Author: Peter Schiller 
+- Change No.: 14b86f2 | Title: Speed things up to the max | Author: dabug123 
+- Change No.: 2933846 | Title: Fix white flash when launching Tuner activities | Author: George G 
+- Change No.: 9faad40 | Title: Fix FAB not disappearing in multiwindow | Author: Pranav Vashi 
+- Change No.: b849d65 | Title: QS: BT easy toggle [1/2] | Author: xyyx 
+- Change No.: 951d20b | Title: QS BT easy toggle: if enabled, long press for detail view | Author: ezio84 
+- Change No.: 4a2038c | Title: QS: WiFi easy toggle [1/2] | Author: mydongistiny 
+- Change No.: 8742116 | Title: Expose external qs tile tint color | Author: Alex Cruz 
+- Change No.: 50e5c69 | Title: Fix playing screenshot's sound when camera's sounds off | Author: xyyx 
+- Change No.: 13e039a | Title: Data tile: make it customizable by the user [1/2] | Author: ezio84 
+- Change No.: 58313e6 | Title: QS WiFi easy toggle: if enabled, long press for detail view | Author: ezio84 
+- Change No.: e869a3f | Title: New crowdin translations | Author: dadi11 
+- Change No.: e536103 | Title: sounds: replace files from marlin | Author: Park Ju Hyung 
+- Change No.: a4fcdb3 | Title: FWB: Bring back battery charging animation | Author: Willi Ye 
+- Change No.: c74201e | Title: New Crowdin translations | Author: dadi11 
+- Change No.: 713e3c9 | Title: graphics: ADB "N" icon compatible with OMS7 | Author: George G 
+- Change No.: c6c1a11 | Title: Set external QS tiles tint mode to SRC_ATOP | Author: Alex Cruz 
+- Change No.: e5e722f | Title: Themes: Expose Keyguard affordance circle background | Author: Branden M 
+- Change No.: 6944c4c | Title: New XenonHD translations | Author: dadi11 
+- Change No.: 528af40 | Title: Fix recents thumbnails for one hand mode | Author: ezio84 
+- Change No.: 685e0a0 | Title: OneHandMode Recents: fix NPE | Author: Ezio Lacandia Bijelkic 
+- Change No.: 52b8bf6 | Title: Turn the spam off | Author: maxwen 
+- Change No.: 42940f1 | Title: Notification tint: add optional findContrastColor algorithm for dark backgrounds | Author: SpiritCroc 
+- Change No.: 9180132 | Title: Add a protected broadcast for Masquerade events | Author: bigrushdog 
+- Change No.: 9730d8e | Title: New XenonHD translations | Author: dadi11 
+
+Repository : frameworks/native/ 
+--------------------
+https://github.com/TeamHorizon/frameworks_native
+- Change No.: 267a2e8 | Title: sf: fixes for HWC2 | Author: Dan Pasanen 
+- Change No.: fb4148e | Title: OMS7-N: installd: add command 'rmidmap' | Author: Mårten Kongstad 
+- Change No.: e904ee6 | Title: Add new feature of One-hand UI Mode [2/3] | Author: Bangbang Huang 
+- Change No.: f51550c | Title: Fix one handed mode triggering tapjacking protection | Author: beanstown106 
+- Change No.: b4a3807 | Title: SF: Improve phase/vsync offsets on HWC1 | Author: Jake Weinstein 
+
+Repository : hardware/libhardware/ 
+--------------------
+https://github.com/LineageOS/android_hardware_libhardware
+- Change No.: fcd7a60 | Title: Revert "power: Add support for camera preview in powerHAL" | Author: Zhao Wei Liew 
+- Change No.: a9bb3f7 | Title: hardware: power: Remove POWER_HINT_AUDIO | Author: Zhao Wei Liew 
+
+Repository : hardware/qcom/bootctrl/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_bootctrl
+- Change No.: 0a8485b | Title: bootctl: use TARGET_RECOVERY_UPDATER_LIBS macro for linking | Author: Dan Pasanen 
+
+Repository : hardware/qcom/fm/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_fm
+- Change No.: 63717c4 | Title: jni: Confine the firmware-load skipping to the actual loading | Author: Ricardo Cerqueira 
+
+Repository : hardware/ril-caf/ 
+--------------------
+https://github.com/LineageOS/android_hardware_ril
+- Change No.: 927a52d | Title: ril: Setting ril to v10 or v11 serves no purpose | Author: Matt Mower 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: ff19669 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Contacts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Contacts
+- Change No.: 54f09fd | Title: Themes: Expose hardcoded layout and styles colors | Author: beanstown106 
+
+Repository : packages/apps/ContactsCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_ContactsCommon
+- Change No.: de044c6 | Title: Themes: Expose hardcoded contact tile text colors | Author: bgill55 
+- Change No.: 818fd5b | Title: Themes: Define back arrow tint color for themes | Author: Bryan Owens 
+
+Repository : packages/apps/Dialer/ 
+--------------------
+https://github.com/TeamHorizon/packages_apps_Dialer
+- Change No.: 8760b8b | Title: Themes: Separate background color from text color | Author: Alex Cruz 
+- Change No.: f749bfd | Title: Themes: InCallUI dialpad digits color | Author: George G 
+- Change No.: 253212c | Title: Dialer: add to support multi-language smart search | Author: xyyx 
+- Change No.: 28cc3cc | Title: Russian T9 for Dialer (author @dimfishr) | Author: xyyx 
+
+Repository : packages/apps/PhoneCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_PhoneCommon
+- Change No.: c689fd1 | Title: Themes: Make dialpad seperator line theme-able | Author: Thyrus11 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 2e3d158 | Title: wifi: Allow configuration of country code for wifi | Author: Andrew Dodd 
+- Change No.: 976fe78 | Title: Track RemotePreferenceManager API changes. | Author: Danny Baumann 
+- Change No.: 6ed2943 | Title: XenonHD logo in About section | Author: theringmaster 
+- Change No.: ab641fe | Title: Settings: Remove system update option | Author: iceandfire 
+- Change No.: 0af20fd | Title: Revert "settings: Add contributors cloud to device info" | Author: dadi11 
+- Change No.: f52e06c | Title: Skip Misc/Overcounted battery stats regardless of build type. | Author: BeansTown106 
+- Change No.: 06df0c6 | Title: Settings: display XenonHD version in About | Author: dadi11 
+- Change No.: c003556 | Title: [3/3] Settings: Changelog | Author: alviteri 
+- Change No.: 1344f4f | Title: Changelog: prettify | Author: pcarenza 
+- Change No.: ae57908 | Title: Changelog: Xenonify | Author: dadi11 
+- Change No.: faf9b41 | Title: Add OTA support to Settings | Author: TheBr0ken 
+- Change No.: 23e5e42 | Title: Enable Development Settings By Default regardless of build type * also kill dev countdown + redo arleady enabled string | Author: beanstown106 
+- Change No.: f1d5530 | Title: add additional battery saver steps | Author: zephiK 
+- Change No.: c53147c | Title: Clean up manifest issues | Author: camcory 
+- Change No.: 084329a | Title: Always show screen on time | Author: Christopher R. Palmer 
+- Change No.: 884f38e | Title: Settings: apple can do...we can do as well | Author: Lars Greiss 
+- Change No.: f56880f | Title: Add fastscroll to the Manage applications screen | Author: Jimmy 
+- Change No.: 0b1b919 | Title: Use separate icon for flashlight power usage | Author: Michael Bestas 
+- Change No.: 1b920b9 | Title: Remove Bug report options from developer settings | Author: beanstown106 
+- Change No.: 146672b | Title: location: Enable 3dot menu | Author: George G 
+- Change No.: 62f72a8 | Title: Remove all Google Legal Information, System Update Settings | Author: beanstown106 
+- Change No.: f164041 | Title: Settings: Add XenonHD translations | Author: dadi11 
+- Change No.: 65e1bb7 | Title: Settings: remove ota_disable_automatic_update | Author: dadi11 
+- Change No.: 92b8758 | Title: bluetooth: Show a refresh icon on the select devices screen | Author: Diogo Ferreira 
+- Change No.: 5eaf590 | Title: Open app when clicking on icon in App Info screen | Author: deadman96385 
+- Change No.: 9e38846 | Title: Expose PhoneInfo | Author: nobe1976 
+- Change No.: 6e28441 | Title: Fix wrong label for Desktop backup password | Author: Alex Cruz 
+- Change No.: f7523c9 | Title: bluetooth: Don't crash when the local adapter is not set | Author: Diogo Ferreira 
+- Change No.: e56b548 | Title: Add back a helper pref that holds a system setting. | Author: Danny Baumann 
+- Change No.: 4e662c3 | Title: Settings: Wi-Fi WPS Materialized icon | Author: undefined 
+- Change No.: a4c9e41 | Title: Settings: Use seekbar to allow setting arbitrary animation values | Author: Steve Kondik 
+- Change No.: af3e068 | Title: Remove duplicate permissions | Author: Alex Cruz 
+- Change No.: 24a4a35 | Title: Set advanced reboot value to true by default | Author: Scott 
+- Change No.: 4d6d7af | Title: Move option to set swXdp to Settings/Display | Author: Alex Cruz 
+- Change No.: d220fde | Title: settings: New google pixel colors | Author: xdnax 
+- Change No.: 8c79b68 | Title: Settings: remove CM API version | Author: Leo Jehl 
+- Change No.: 074bb1b | Title: Settings: fix root appops in dev settings | Author: dadi11 
+- Change No.: f9267ee | Title: Settings: Double tap to sleep anywhere on the lock screen (2/2) | Author: Altaf-Mahdi 
+- Change No.: 747f247 | Title: Add setup UI for minimum delay between an app's notification sounds | Author: Danny Baumann 
+- Change No.: f58e184 | Title: Fix InstantiationException when rotating Notification access settings | Author: Ryoji Miyazaki 
+- Change No.: d3c4156 | Title: Fix memory leak in Bluetooth settings | Author: mingliang.x.lei 
+- Change No.: 2bb6599 | Title: Fix NPE when rotating "Saved networks" screen | Author: lei.x.sun 
+- Change No.: 068e6c1 | Title: Fix NPE in SettingsPreferenceFragment | Author: Gianmarco Reverberi 
+- Change No.: b14a750 | Title: Fix crash when rotating HighPowerDetail dialog | Author: Zhendong Yang 
+- Change No.: 7d1ff0f | Title: Settings: Fix cannot search paired BT device issue. | Author: kaiyiz 
+- Change No.: 5a080da | Title: Settings: unhide Night Mode | Author: Hernan Castanon Alvarez 
+- Change No.: 39f3cac | Title: DayNight: improve storage summary | Author: George G 
+- Change No.: 255a1a8 | Title: Settings: fix dark theme for suggestions and conditions | Author: maxwen 
+- Change No.: d7e59e9 | Title: setttings: fix action bar color | Author: Arvin Quilao 
+- Change No.: 914d3e4 | Title: DayNight: fixes for Settings | Author: Marko Man 
+- Change No.: 146fb60 | Title: Settings: hide learn more button on fingerprint page | Author: maxwen 
+- Change No.: 82a8df3 | Title: Settings: disable the other learn more too to prevent crash | Author: maxwen 
+- Change No.: e95032d | Title: add toggle for MAC address randomization | Author: Daniel Micay 
+- Change No.: bfb2c54 | Title: Settings: update translations | Author: dadi11 
+- Change No.: 42c3f5c | Title: Live Volume Steps [2/2] | Author: Meticulus 
+- Change No.: 10c7605 | Title: strings: translate DayNight options | Author: dadi11 
+- Change No.: 833d5f2 | Title: Settings: update XenonHD logo | Author: dadi11 
+- Change No.: d5277c8 | Title: Changelog: update colors | Author: Daniel Sikorski 
+- Change No.: 5c748c2 | Title: Settings: Disable/Enable screenshot sound [2/2] | Author: dadi11 
+- Change No.: 26c794e | Title: Settings: Add round icon | Author: AndropaX 
+- Change No.: 565e0b5 | Title: Settings: edit xenonhd logo a little bit | Author: dadi11 
+- Change No.: 016842e | Title: Settings: background not set in main Settings screen | Author: Menno van Grinsven 
+- Change No.: 6ae152c | Title: Settings: fix OTA in settings | Author: Daniel Sikorski 
+- Change No.: 7fba7bf | Title: Settings: use multi-res XenonHD logo | Author: dadi11 
+- Change No.: 525231d | Title: Settings: Expose storage summary text | Author: George G 
+- Change No.: 882f504 | Title: Themes: Expose condition card colors | Author: daveyannihilation 
+- Change No.: a9ba6c9 | Title: Expose dashboard category and tile color | Author: Ivan Iskandar 
+- Change No.: 61dbc57 | Title: OMS7-N: Apps: show/hide Substratum overlays [2/2] | Author: George G 
+- Change No.: 9c6f539 | Title: Settings: Expose LinearColorBar default colors | Author: SpiritCroc 
+- Change No.: 17a7d2a | Title: Settings: Fix theming of switchbar background color | Author: SpiritCroc 
+- Change No.: 587c8ea | Title: Settings: Fix condition card OMS mismerge | Author: SpiritCroc 
+- Change No.: e0cd01f | Title: Fix duplication error | Author: ljjehl 
+- Change No.: f675340 | Title: Settings: Expose gesture settings switchbar | Author: daveyannihilation 
+- Change No.: 58aab09 | Title: Settings: Expose storage icon colors | Author: SpiritCroc 
+- Change No.: c112250 | Title: OMS7-N: Apps: show/hide Substratum icon overlays [2/2] | Author: Kuba Schenk 
+- Change No.: 8cff620 | Title: Exclude overlays from the app counter | Author: Ivan Iskandar 
+- Change No.: ad6ec31 | Title: Hide the "show/hide overlays" when no overlay installed | Author: Ivan Iskandar 
+- Change No.: 8b0b8c8 | Title: Settings: xenonize xml's | Author: dadi11 
+- Change No.: 8fe3d00 | Title: Settings: Bring Up XenonHD Configurations | Author: Varun Date 
+- Change No.: b0dbc05 | Title: Settings: Selinux Switch | Author: Alex Cruz 
+- Change No.: ee98433 | Title: Fix Selinux Setting to Enforcing OnBoot | Author: Varun Date 
+- Change No.: 5ec037f | Title: Settings: Fix selinux switch | Author: Sanyam Jain 
+- Change No.: 633092c | Title: Settings: reorganize xenonhd configurations | Author: dadi11 
+- Change No.: 44c924c | Title: Settings: Add membar to recents options [2/2] | Author: dadi11 
+- Change No.: 90dcb40 | Title: Expose color for external settings icons | Author: Clark Scheff 
+- Change No.: 32dd375 | Title: Custom QS rows/columns [2/2] | Author: XXMrHyde 
+- Change No.: 6a66803 | Title: Settings: add categories to Configurations | Author: dadi11 
+- Change No.: f881657 | Title: Disable Lockscreen Media Art [2/2] | Author: beanstown106 
+- Change No.: 569c8ec | Title: Keyguard: Forward port lockscreen quick unlock (2/2) | Author: Matt Mower 
+- Change No.: a7fb37f | Title: Settings: show XenonHD Maintainer in About | Author: dadi11 
+- Change No.: 08c57b2 | Title: Development Settings-Fix issues with Long Press to Kill option | Author: ljjehl 
+- Change No.: 66b1eee | Title: Add three-fingers-swipe to screenshot [1/2] | Author: maxwen 
+- Change No.: c68113c | Title: Settings: update xenonhd config & strings | Author: dadi11 
+- Change No.: c46e982 | Title: Settings - long press back to kill configurable timeout [2/2] | Author: Danesh Mondegarian 
+- Change No.: 283d34f | Title: Settings: correct translations | Author: Daniel Sikorski 
+- Change No.: 15aaf04 | Title: Custom Ambient display options (2/2) | Author: beanstown106 
+- Change No.: 717bead | Title: Expose dashboard category padding bottom | Author: Ivan Iskandar 
+- Change No.: fb541c4 | Title: Expose switchbar background color | Author: Ivan Iskandar 
+- Change No.: 5313e45 | Title: Add Clear All Button to Recents [2/2] | Author: cristianomatos 
+- Change No.: 95a8a01 | Title: strings: add hint of required root for selinux switch | Author: Daniel Sikorski 
+- Change No.: 642ffbd | Title: Settings: Expose bluetooth pin confirm dialog text colors | Author: SpiritCroc 
+- Change No.: 9c03e52 | Title: Dashboard customizations | Author: Ali B 
+- Change No.: b4d5797 | Title: Dashboard tile layout config [1/2] | Author: maxwen 
+- Change No.: 2df0cbd | Title: Settings: Add CustomSeekBarPreference | Author: d34d 
+- Change No.: d865759 | Title: Rework dashboard settings [1/2] | Author: Alex Cruz 
+- Change No.: 8391be1 | Title: Settings: add advanced tiles toggle | Author: dadi11 
+- Change No.: 22a46ec | Title: QS rows/columns settings: List --> Seekbar | Author: iceandfire 
+- Change No.: 6a75a15 | Title: Settings: reorganize dashboard settings | Author: Daniel Sikorski 
+- Change No.: e33d25c | Title: Set external settings icon tint mode to SRC_ATOP | Author: Ivan Iskandar 
+- Change No.: d67db65 | Title: New XenonHD translations | Author: dadi11 
+
+Repository : packages/apps/Snap/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Snap
+- Change No.: 78b810b | Title: Snap: New icon | Author: iceandfire 
+- Change No.: 31b1ca1 | Title: Snap: don't override Camera2 | Author: Daniel Sikorski 
+- Change No.: 93f3fb7 | Title: Snap: New round icon | Author: Vangreen 
+
+Repository : packages/providers/ContactsProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_ContactsProvider
+- Change No.: c881eba | Title: dbhelper: fix schema disaster from pre-cafrebase repo | Author: Dan Pasanen 
+
+Repository : packages/services/Telephony/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telephony
+- Change No.: 83008b2 | Title: Telephony: Fix qtistrings | Author: Michael W 
+- Change No.: aa8becd | Title: Telephony: Fix qtistrings | Author: Kasual 
+
+Repository : platform_manifest/ 
+--------------------
+https://github.com/TeamHorizon/platform_manifest
+- Change No.: 9a2d41c | Title: cm: Sync the new cryptfs_hw repo | Author: Zhao Wei Liew 
+
+Repository : system/bt/ 
+--------------------
+https://github.com/LineageOS/android_system_bt
+- Change No.: e999a15 | Title: Revert "Bluetooth-Wipower: Enable WiPower feature." | Author: Dan Pasanen 
+
+Repository : system/core/ 
+--------------------
+https://github.com/TeamHorizon/android_system_core
+- Change No.: 8d98e2b | Title: Set /system/etc/init.d/* permissions | Author: beanstown106 
+- Change No.: a4e66a9 | Title: Set permissions on /system/addon.d/ and files within. | Author: beanstown106 
+
+Repository : system/sepolicy/ 
+--------------------
+https://github.com/TeamHorizon/android_system_sepolicy
+- Change No.: a7a0034 | Title: OMS7-N: Add service 'overlay' to service_contexts | Author: Mårten Kongstad 
+- Change No.: 7bc4b92 | Title: viper4android: this is better | Author: sykopompos 
+- Change No.: eec0501 | Title: sepolicy: Allow remount /system | Author: Zipsnet 
+- Change No.: 3053549 | Title: sepolicy: Allow system_app, system_server and platform_app | Author: LorDClockaN 
+- Change No.: 24d7fa3 | Title: sepolicy: Allow priv_app to run su_exec() | Author: dadi11 
+- Change No.: ecf62b5 | Title: Allow apps in /system/priv-app to call and execute su commands | Author: Nathan Chancellor 
+- Change No.: 8530d67 | Title: Introduce sepolicy exceptions for theme assets | Author: d34d 
+- Change No.: 5ec3ad2 | Title: sepolicy: fix themed boot animation | Author: bigrushdog 
+- Change No.: dee0053 | Title: sepolicy: fix themed sounds | Author: George G 
+
+Repository : system/vold/ 
+--------------------
+https://github.com/LineageOS/android_system_vold
+- Change No.: 25ea9c3 | Title: vold: Update path to cryptfs_hw | Author: c457 
+
+Repository : vendor/qcom/binaries/ 
+--------------------
+https://github.com/TheMuppets/proprietary_vendor_qcom_binaries
+- Change No.: 48c3f6b | Title: bluetooth: Add aptX & aptXHD to comfirmed platforms | Author: dh.harald 
+
+Repository : vendor/xenonhd/ 
+--------------------
+https://github.com/TeamHorizon/vendor_xenonhd
+- Change No.: e1d1fab | Title: xenonhd: reconstruct config makefiles | Author: dadi11 
+- Change No.: fe2a8bf | Title: xenonhd: fix sepolicy after https://github.com/TeamHorizon/android_system_sepolicy/commit/d2f9cb0de07503f1b995f5979fbdd96ca26cc64d | Author: dadi11 
+
+
+-----------------
+#     02-14-2017
+-----------------
+
+Repository : hardware/qcom/media/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_media
+- Change No.: c8a7605 | Title: media: add missing 8952 symlink | Author: David 
+
+Repository : packages/apps/Eleven/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Eleven
+- Change No.: abc9ded | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/FlipFlap/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_FlipFlap
+- Change No.: 965d891 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Recorder/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Recorder
+- Change No.: 7a10f08 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/WundergroundWeatherProvider/
+- Change No.: 2a96249 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+
+-----------------
+#     02-13-2017
+-----------------
+
+Repository : kernel/huawei/kiwi/ 
+--------------------
+https://github.com/LineageOS/android_kernel_huawei_kiwi
+- Change No.: f079649 | Title: msm: kgsl: Change %p to %pK in debug messages | Author: Divya Ponnusamy 
+- Change No.: e3752e3 | Title: qcom: scm: remove printing input arguments | Author: Swetha Chikkaboraiah 
+- Change No.: 9b505b9 | Title: msm: crypto: Fix integer over flow check in qce driver | Author: Zhen Kong 
+- Change No.: 64e77b3 | Title: qseecom: remove entry from qseecom_registered_app_list | Author: Mallikarjuna Reddy Amireddy 
+- Change No.: 665189f | Title: drivers: soc: add size checks and update log messages | Author: Siena Richard 
+- Change No.: 155f338 | Title: ext4: validate s_first_meta_bg at mount time | Author: Eryu Guan 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: 6d67bb8 | Title: New XenonHD translations | Author: dadi11 
+- Change No.: b674670 | Title: CMParts: strings: Fix indentation | Author: dianlujitao 
+
+Repository : packages/apps/XenonOTA/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_XenonOTA
+- Change No.: 0e5e8fc | Title: New XenonHD translations | Author: dadi11 
+
+Repository : vendor/qcom/opensource/cryptfs_hw/ 
+--------------------
+https://github.com/LineageOS/android_vendor_qcom_opensource_cryptfs_hw
+- Change No.: a0624c1 | Title: Place library in vendor folder on device | Author: Dinesh K Garg 
+- Change No.: cba11e0 | Title: Wrong function pointer usage | Author: Dinesh K Garg 
+- Change No.: 9cccca7 | Title: Port cryptfs_hw library to 64bit platform | Author: Dinesh K Garg 
+- Change No.: d48e2a0 | Title: qcom/common: Added O_NOFOLLOW to avoid follow the symlink | Author: Sri Krishna Chaitanya Madireddy 
+- Change No.: 2fc15a0 | Title: Adding support of Inline Crypto Engine (ICE) | Author: Dinesh K Garg 
+- Change No.: 1ecf84f | Title: Adding support for eMMC based ICE | Author: Dinesh K Garg 
+- Change No.: 53ae3b4 | Title: cryptfs_hw: Add support for wipe_key routine | Author: AnilKumar Chimata 
+- Change No.: 0b9f6f6 | Title: cryptfs_hw: Update APIs to take old password | Author: AnilKumar Chimata 
+- Change No.: 0e64543 | Title: cryptfs_hw: add string.h | Author: Chiou-Hao Hsu 
+- Change No.: 7223712 | Title: cryptfs_hw: Update module as per vold Repository : | Author: Dinesh K Garg  
+--------------------
+- Change No.: 55fd88f | Title: cryptfs_hw: Tie HW FDE keys with keymaster | Author: Dinesh K Garg 
+- Change No.: f09ae18 | Title: Wait for QSEECom listeners before calling KMS APIs | Author: Dinesh K Garg 
+- Change No.: 3494750 | Title: cryptfs_hw: update the listener property with keymaster property | Author: Brahmaji K 
+- Change No.: 8d14c48 | Title: Cleanup temporarily stored passwords | Author: Dinesh K Garg 
+- Change No.: d1e1e0b | Title: cryptfs_hw: Remove keymaster partition check | Author: AnilKumar Chimata 
+
+
+-----------------
+#     02-12-2017
+-----------------
+
+Repository : kernel/huawei/kiwi/ 
+--------------------
+https://github.com/LineageOS/android_kernel_huawei_kiwi
+- Change No.: f189d29 | Title: BACKPORT: aio: mark AIO pseudo-fs noexec | Author: Nick Desaulniers 
+
+Repository : packages/apps/AudioFX/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_AudioFX
+- Change No.: c591503 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: f4c285b | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: 1ed7296 | Title: CMParts: gestures: Specify a qualified user for update broadcast | Author: Zhao Wei Liew 
+
+Repository : packages/apps/Eleven/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Eleven
+- Change No.: 7a9e5c2 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/FMRadio/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_FMRadio
+- Change No.: cf589ab | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/FlipFlap/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_FlipFlap
+- Change No.: 97c091f | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/LockClock/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_LockClock
+- Change No.: 3092f9d | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Profiles/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Profiles
+- Change No.: f1c23ad | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Recorder/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Recorder
+- Change No.: e4e79ce | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 9bddf84 | Title: Settings: Add status bar tap to sleep pref to gestures | Author: Zhao Wei Liew 
+
+Repository : packages/providers/DataUsageProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_DataUsageProvider
+- Change No.: 60282f9 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/WeatherProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_WeatherProvider
+- Change No.: 68a67f3 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/resources/devicesettings/ 
+--------------------
+https://github.com/LineageOS/android_packages_resources_devicesettings
+- Change No.: 64395d2 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/CMAudioService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_CMAudioService
+- Change No.: 00e085e | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/LiveLockScreenService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_LiveLockScreenService
+- Change No.: 226fe91 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/WeatherService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_WeatherService
+- Change No.: b64184a | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdk
+- Change No.: 2c66fae | Title: RemotePreferenceManager: Fix receiver registration issues. | Author: Danny Baumann 
+- Change No.: 5f6b9c2 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/WundergroundWeatherProvider/
+- Change No.: 847f472 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/YahooWeatherProvider/
+- Change No.: 0d0f144 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/qcom/opensource/cryptfs_hw/ 
+--------------------
+https://github.com/LineageOS/android_vendor_qcom_opensource_cryptfs_hw
+- Change No.: ffb80b2 | Title: vold: HW based device encryption | Author: Dinesh K Garg 
+
+
