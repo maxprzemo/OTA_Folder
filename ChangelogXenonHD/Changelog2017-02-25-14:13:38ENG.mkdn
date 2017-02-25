@@ -1,0 +1,611 @@
+-----------------
+#     02-25-2017
+-----------------
+
+Repository : build/ 
+--------------------
+https://github.com/TeamHorizon/android_build
+- Change No.: f35afe6 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : device/huawei/kiwi/ 
+--------------------
+https://github.com/maxprzemo/android_device_huawei_kiwi-1
+- Change No.: 6447a94 | Title: kiwi: power: Use POWER_HINT_LAUNCH for launch boosts | Author: Zhao Wei Liew 
+- Change No.: 72d7074 | Title: No SuperSu app | Author: maxprzemo 
+- Change No.: 26bfd90 | Title: Merge pull request #2 from LineageOS/cm-14.1 | Author: Przemysław 
+
+Repository : device/qcom/common/ 
+--------------------
+https://github.com/LineageOS/android_device_qcom_common
+- Change No.: 1a1248b | Title: power: replace strncpy with strlcpy | Author: Ramakrishnan Ganesh 
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: 68538e9 | Title: DocumentsUI: use 'Files' icon and text for icon | Author: Dan Pasanen 
+- Change No.: a5288b1 | Title: Fix automatic zen rules. | Author: Danny Baumann 
+- Change No.: 64afe90 | Title: Fix clipping for date and time on QS | Author: Kazuki Kobayashi 
+- Change No.: c598108 | Title: Revert "Emergency call button on Swipe lock Screen." | Author: Matthias Yzusqui 
+- Change No.: dd8a3d7 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+- Change No.: bcc3585 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : frameworks/native/ 
+--------------------
+https://github.com/TeamHorizon/frameworks_native
+- Change No.: a3b0a89 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : frameworks/opt/hardware/ 
+--------------------
+https://github.com/LineageOS/android_frameworks_opt_hardware
+- Change No.: ca48b0c | Title: Revert "cmhw: Allow LiveDisplay to check if GPU transform is used" | Author: Zhao Wei Liew 
+
+Repository : packages/apps/Bluetooth/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Bluetooth
+- Change No.: f355923 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: ce4f16c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Contacts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Contacts
+- Change No.: fe49625 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/ContactsCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_ContactsCommon
+- Change No.: ad857cd | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Dialer/ 
+--------------------
+https://github.com/TeamHorizon/packages_apps_Dialer
+- Change No.: b7906f7 | Title: Use TabLayout for DSDA tabs. | Author: Danny Baumann 
+- Change No.: 842823d | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Email/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Email
+- Change No.: e29763c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Messaging/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Messaging
+- Change No.: 370f473 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/PhoneCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_PhoneCommon
+- Change No.: 9ea56f5 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 0c990c4 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Snap/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Snap
+- Change No.: 67515c3 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/UnifiedEmail/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_UnifiedEmail
+- Change No.: a2eadaa | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : platform_manifest/ 
+--------------------
+https://github.com/TeamHorizon/platform_manifest
+- Change No.: 0f2c9c0 | Title: manifest: android-7.1.1_r9 -> android-7.1.1_r21 | Author: Dan Pasanen 
+
+Repository : system/core/ 
+--------------------
+https://github.com/TeamHorizon/android_system_core
+- Change No.: d1cf14f | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : system/sepolicy/ 
+--------------------
+https://github.com/TeamHorizon/android_system_sepolicy
+- Change No.: 9c9cffa | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdk
+- Change No.: 19d035a | Title: CMSettingsProvider: remove per-user cursor observation | Author: Danny Baumann 
+- Change No.: 1b191b0 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/xenonhd/ 
+--------------------
+https://github.com/TeamHorizon/vendor_xenonhd
+- Change No.: 4f6f1ba | Title: vendor: support more text types | Author: Dan Pasanen 
+- Change No.: 91843f3 | Title: overlay: enable productivity_device for DocumentsUI | Author: Dan Pasanen 
+- Change No.: e8d0415 | Title: build: Pass path into grep instead of using cat | Author: frk 
+- Change No.: c978704 | Title: Use releasekey instead of platform for extra recovery keys | Author: Tom Powell 
+
+
+-----------------
+#     02-24-2017
+-----------------
+
+Repository : bionic/ 
+--------------------
+- Change No.: a15dbf3 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : build/ 
+--------------------
+https://github.com/TeamHorizon/android_build
+- Change No.: d31173c | Title: Add dumpvar for WITH_GMS | Author: Abhisek Devkota 
+- Change No.: fe43d25 | Title: build: always copy recovery.img to BOOTABLE_IMAGES. | Author: Flex1911 
+
+Repository : dalvik/ 
+--------------------
+https://github.com/LineageOS/android_dalvik
+- Change No.: df22533 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : device/huawei/kiwi/ 
+--------------------
+https://github.com/maxprzemo/android_device_huawei_kiwi-1
+- Change No.: 6bc101d | Title: kiwi: Increase min frequency of little cluster | Author: Michael W 
+
+Repository : device/qcom/common/ 
+--------------------
+https://github.com/LineageOS/android_device_qcom_common
+- Change No.: 2be2684 | Title: power: Use POWER_HINT_LAUNCH for launch boosts | Author: Zhao Wei Liew 
+
+Repository : frameworks/av/ 
+--------------------
+https://github.com/LineageOS/android_frameworks_av
+- Change No.: 0851b45 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: acff871 | Title: New XenonHD translations | Author: dadi11 
+- Change No.: 132fb9b | Title: Bluetooth: Fix setting app stoped when unpair device | Author: Venkata Jagadeesh Garaga 
+
+Repository : frameworks/native/ 
+--------------------
+https://github.com/TeamHorizon/frameworks_native
+- Change No.: 793857e | Title: libEGL: Only enable WORKAROUND_BUG_10194508 with board flag | Author: D. Andrei Măceș 
+
+Repository : hardware/libhardware/ 
+--------------------
+https://github.com/LineageOS/android_hardware_libhardware
+- Change No.: 721e37c | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : hardware/libhardware_legacy/ 
+--------------------
+https://github.com/LineageOS/android_hardware_libhardware_legacy
+- Change No.: ece325e | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : hardware/qcom/audio-caf/msm8916/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_audio
+- Change No.: c205dc8 | Title: Merge remote-tracking branch 'caf/LA.BR.1.2.9_rb1.12' into HEAD | Author: Luca Stefani 
+
+Repository : hardware/qcom/audio/default/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_audio
+- Change No.: bc83ef0 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : hardware/qcom/display-caf/msm8916/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_display
+- Change No.: c1f04be | Title: Merge remote-tracking branch 'caf/LA.BR.1.2.9_rb1.12' into HEAD | Author: Luca Stefani 
+
+Repository : libcore/ 
+--------------------
+https://github.com/LineageOS/android_libcore
+- Change No.: 7afe9e8 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : packages/apps/Bluetooth/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Bluetooth
+- Change No.: f568886 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: 6a273c4 | Title: New XenonHD translations | Author: dadi11 
+- Change No.: 86b76da | Title: CMParts: Fix email and browser intents | Author: Michael W 
+
+Repository : packages/apps/Calendar/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Calendar
+- Change No.: 9fcf496 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/CellBroadcastReceiver/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_CellBroadcastReceiver
+- Change No.: 79dcdc1 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Eleven/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Eleven
+- Change No.: 21bbc9c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Email/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Email
+- Change No.: ce1a995 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : packages/apps/FlipFlap/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_FlipFlap
+- Change No.: 1a8c25d | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Gallery2/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Gallery2
+- Change No.: 399265e | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/HTMLViewer/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_HTMLViewer
+- Change No.: ec61c56 | Title: Allow searching in HTMLViewer. | Author: Danny Baumann 
+
+Repository : packages/apps/LockClock/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_LockClock
+- Change No.: 92d5403 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Messaging/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Messaging
+- Change No.: ea53799 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : packages/apps/Profiles/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Profiles
+- Change No.: 83dd47f | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Recorder/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Recorder
+- Change No.: 814b9b0 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 6924231 | Title: New XenonHD translations | Author: dadi11 
+
+Repository : packages/apps/Tag/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Tag
+- Change No.: c2d04dc | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : packages/apps/Terminal/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Terminal
+- Change No.: 8e2999c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/UnifiedEmail/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_UnifiedEmail
+- Change No.: e2ae143 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : packages/apps/XenonOTA/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_XenonOTA
+- Change No.: 167cb30 | Title: New XenonHD translations | Author: dadi11 
+
+Repository : packages/inputmethods/LatinIME/ 
+--------------------
+https://github.com/LineageOS/android_packages_inputmethods_LatinIME
+- Change No.: 151818a | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/BlockedNumberProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_BlockedNumberProvider
+- Change No.: 6a4e5ff | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : packages/providers/CalendarProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_CalendarProvider
+- Change No.: a656734 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : packages/providers/DataUsageProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_DataUsageProvider
+- Change No.: 86834db | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/DownloadProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_DownloadProvider
+- Change No.: 15cc93d | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/UserDictionaryProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_UserDictionaryProvider
+- Change No.: 88e435c | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : packages/providers/WeatherProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_WeatherProvider
+- Change No.: 82adbf6 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/resources/devicesettings/ 
+--------------------
+https://github.com/LineageOS/android_packages_resources_devicesettings
+- Change No.: f6ceba9 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/CMAudioService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_CMAudioService
+- Change No.: 3fddddf | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/LiveLockScreenService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_LiveLockScreenService
+- Change No.: e6357f3 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/Telephony/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telephony
+- Change No.: 6eb53eb | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/WeatherService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_WeatherService
+- Change No.: c42f6f4 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : system/security/ 
+--------------------
+https://github.com/LineageOS/android_system_security
+- Change No.: 375e02f | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : system/tools/aidl/ 
+--------------------
+https://github.com/LineageOS/android_system_tools_aidl
+- Change No.: 6192de5 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdk
+- Change No.: 16695a8 | Title: cmsdk: Remove launch boost support | Author: Zhao Wei Liew 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/WundergroundWeatherProvider/
+- Change No.: 79b5f88 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/YahooWeatherProvider/
+- Change No.: cbd94da | Title: Automatic translation import | Author: Abhisek Devkota 
+
+
+-----------------
+#     02-23-2017
+-----------------
+
+Repository : hardware/qcom/media-caf/msm8974/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_media
+- Change No.: 99eef72 | Title: media-caf msm8974: Fix typo in video decoder error check for debug output | Author: Corinna Vinschen 
+
+Repository : libcore/ 
+--------------------
+https://github.com/LineageOS/android_libcore
+- Change No.: b065999 | Title: Revert "Remove support for reading mime types from property files." | Author: Dan Pasanen 
+
+Repository : packages/apps/HTMLViewer/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_HTMLViewer
+- Change No.: 23ad424 | Title: HTMLViewer: support most text/ mimetypes | Author: Dan Pasanen 
+
+Repository : packages/apps/LockClock/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_LockClock
+- Change No.: 26ae64d | Title: Build the internal CM SDK as a static library | Author: Zhao Wei Liew 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 88971c4 | Title: Revert "Settings:Change the way of email account displayed" | Author: Gabriele M 
+
+
+-----------------
+#     02-22-2017
+-----------------
+
+Repository : build/ 
+--------------------
+https://github.com/TeamHorizon/android_build
+- Change No.: 280068c | Title: core: include getb64key.py in otatools | Author: Tom Powell 
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: 38690cd | Title: Add Functionality to control High Brightness Mode [1/2] | Author: yoinx 
+- Change No.: 62f994e | Title: Add High brightness mode QS Tile | Author: yoinx 
+- Change No.: 10c387b | Title: HBM: Fix persistence across suspend | Author: yoinx 
+
+Repository : packages/apps/PhoneCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_PhoneCommon
+- Change No.: ddcad98 | Title: Normall -> Normal typo in strings | Author: Harry Youd 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 4701055 | Title: Improve layout of app ops details screen. | Author: Danny Baumann 
+
+
+-----------------
+#     02-21-2017
+-----------------
+
+Repository : bootable/recovery/ 
+--------------------
+https://github.com/LineageOS/android_bootable_recovery
+- Change No.: 9041a47 | Title: recovery: rebrand for lineage | Author: Asher Simonds 
+
+Repository : build/ 
+--------------------
+https://github.com/TeamHorizon/android_build
+- Change No.: b38a55c | Title: ota_from_target_files: CalculateFingerprint when dump fingerprints | Author: Jesse Chan 
+
+Repository : device/qcom/common/ 
+--------------------
+https://github.com/LineageOS/android_device_qcom_common
+- Change No.: ea99b0c | Title: extractors: Update msm8996 graphics blobs info | Author: dianlujitao 
+- Change No.: 2f412a4 | Title: Revert "Revert "extractors: Add msm8996 32bit libmm-disp-apis and libmm-qdcm"" | Author: dianlujitao 
+
+Repository : packages/apps/Snap/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Snap
+- Change No.: 0ae06e7 | Title: Snap: Allow switching beyond just 2 cameras | Author: Christian Frisson 
+
+Repository : vendor/qcom/binaries/ 
+--------------------
+https://github.com/TheMuppets/proprietary_vendor_qcom_binaries
+- Change No.: f293bf5 | Title: msm8996: graphics: Update to LA.UM.5.5.r1-02200-8x96.0 | Author: dianlujitao 
+
+
+-----------------
+#     02-20-2017
+-----------------
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: 7849507 | Title: base: instrumentation: fix protected apps intents | Author: Joey Rizzoli 
+- Change No.: 90d7d8b | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : hardware/qcom/fm/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_fm
+- Change No.: 6337276 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : hardware/ti/omap4/ 
+--------------------
+https://github.com/LineageOS/android_hardware_ti_omap4
+- Change No.: a6fd7f4 | Title: Enable BOARD_EGL_WORKAROUND_BUG_10194508 by default | Author: Ziyan 
+
+Repository : packages/apps/AudioFX/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_AudioFX
+- Change No.: 9b36fdc | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: 8cba3db | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Calendar/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Calendar
+- Change No.: d4d47ff | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/CellBroadcastReceiver/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_CellBroadcastReceiver
+- Change No.: af13354 | Title: CellBroadcastReceiver: Fix strings | Author: Michael W 
+- Change No.: 08117b8 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Contacts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Contacts
+- Change No.: 52c96dd | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/ContactsCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_ContactsCommon
+- Change No.: 806c0a7 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Dialer/ 
+--------------------
+https://github.com/TeamHorizon/packages_apps_Dialer
+- Change No.: 0718988 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Gallery2/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Gallery2
+- Change No.: bc9f781 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/LockClock/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_LockClock
+- Change No.: 563bb54 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Messaging/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Messaging
+- Change No.: 4e02491 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Recorder/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Recorder
+- Change No.: 42faf20 | Title: Fix last recording duration string | Author: Gabriele M 
+- Change No.: 17585c7 | Title: Dismiss notification when corresponding recording is deleted | Author: Gabriele M 
+- Change No.: 3d92b85 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: d0ac0c4 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Snap/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Snap
+- Change No.: 9ff2f77 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/DataUsageProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_DataUsageProvider
+- Change No.: b978855 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/providers/WeatherProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_WeatherProvider
+- Change No.: e84d46c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/resources/devicesettings/ 
+--------------------
+https://github.com/LineageOS/android_packages_resources_devicesettings
+- Change No.: 1e11ba5 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/CMAudioService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_CMAudioService
+- Change No.: 83729e0 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/LiveLockScreenService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_LiveLockScreenService
+- Change No.: 01c3940 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/Telephony/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telephony
+- Change No.: dea7d57 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/WeatherService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_WeatherService
+- Change No.: 6b4875a | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdk
+- Change No.: 69f7758 | Title: Add a proper description for CM_SETUP_WIZARD_COMPLETED deprecation | Author: Zhao Wei Liew 
+- Change No.: 4fdb6da | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/WundergroundWeatherProvider/
+- Change No.: 7e1dd7c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/YahooWeatherProvider/
+- Change No.: 2badf2f | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/xenonhd/ 
+--------------------
+https://github.com/TeamHorizon/vendor_xenonhd
+- Change No.: 2b5a1f5 | Title: apn: Updating Movistar Argentina APN | Author: ElDainosor 
+
