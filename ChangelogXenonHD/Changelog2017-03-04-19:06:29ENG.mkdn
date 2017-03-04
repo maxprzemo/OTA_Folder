@@ -1,0 +1,760 @@
+-----------------
+#     03-04-2017
+-----------------
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: df57045 | Title: Clean up CAF translations - second try | Author: Michael W 
+- Change No.: dde83be | Title: Remove Cid from PrivacyGuard's notification icon | Author: Jane Manchun Wong 
+- Change No.: 82b070d | Title: [1/2] base: Add new feature of One-hand UI Mode | Author: Bangbang Huang 
+- Change No.: 805e27d | Title: [1/3] base: single hand for hardware keys | Author: Joey Rizzoli 
+- Change No.: 363765a | Title: base: deuglify single hand hint ui | Author: Joey Rizzoli 
+- Change No.: 599bf0f | Title: Automatic translation import | Author: Michael W 
+- Change No.: 1ebdd89 | Title: Fw_base - Wakelock Blocker [1/2] | Author: maxwen 
+
+Repository : frameworks/native/ 
+--------------------
+https://github.com/TeamHorizon/frameworks_native
+- Change No.: 2dc0276 | Title: [2/2] native: Add new feature of One-hand UI Mode | Author: Bangbang Huang 
+
+Repository : packages/apps/Bluetooth/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Bluetooth
+- Change No.: 949846c | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: a5d0b54 | Title: [2/3] CMParts: single hand for hardware keys | Author: Joey Rizzoli 
+- Change No.: 9539f74 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/CellBroadcastReceiver/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_CellBroadcastReceiver
+- Change No.: 1e04c6f | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Contacts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Contacts
+- Change No.: 9586001 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/ContactsCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_ContactsCommon
+- Change No.: 1b69c57 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Dialer/ 
+--------------------
+https://github.com/TeamHorizon/packages_apps_Dialer
+- Change No.: d254ac9 | Title: Automatic translation import | Author: Michael W 
+- Change No.: 42da023 | Title: Dialer: Fix strings | Author: Michael W 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 48d2a72 | Title: Settings: Add overlay for hiding wifi region code | Author: Danesh M 
+- Change No.: 10f2f64 | Title: Automatic translation import | Author: Michael W 
+- Change No.: c0878fd | Title: Settings: - Wakelock Blocker [2/2] | Author: maxwen 
+
+Repository : packages/apps/Snap/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Snap
+- Change No.: 04013b4 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/services/Telephony/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telephony
+- Change No.: 82c4e1c | Title: Automatic translation import | Author: Michael W 
+
+Repository : platform_manifest/ 
+--------------------
+https://github.com/TeamHorizon/platform_manifest
+- Change No.: ad66d4e | Title: Track our Qcom binaries | Author: axxx007xxxz 
+
+Repository : system/sepolicy/ 
+--------------------
+https://github.com/TeamHorizon/android_system_sepolicy
+- Change No.: 883d54e | Title: Allow ViPER4Android in enforcing mode | Author: Dark Eyes 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdk
+- Change No.: c7ac90c | Title: [3/3] cmsdk: single hand for hw keys | Author: Joey Rizzoli 
+- Change No.: c20d590 | Title: Automatic translation import | Author: Michael W 
+
+Repository : vendor/qcom/binaries/ 
+--------------------
+https://github.com/TeamHorizon/proprietary_vendor_qcom_binaries
+- Change No.: d0a554b | Title: Don't make the build fail | Author: axxx007xxxz 
+
+Repository : vendor/xenonhd/ 
+--------------------
+https://github.com/TeamHorizon/vendor_xenonhd
+- Change No.: 0a7eb34 | Title: extract-utils: Fix handling of pulling src:dest pairs from dumps | Author: Christopher R. Palmer 
+
+
+-----------------
+#     03-03-2017
+-----------------
+
+Repository : external/nano/ 
+--------------------
+https://github.com/LineageOS/android_external_nano
+- Change No.: b881f6c | Title: nano: Update makefile for new nanorc path | Author: Luca Stefani 
+- Change No.: 4d6f248 | Title: nano: Make revision.h a stub | Author: Luca Stefani 
+- Change No.: 6c16f4a | Title: nano: src: Don't set userdata to NULL | Author: Luca Stefani 
+
+Repository : hardware/cyanogen/ 
+--------------------
+https://github.com/LineageOS/android_hardware_cyanogen
+- Change No.: 2de09c4 | Title: livedisplay: Include test makefile | Author: Luca Stefani 
+- Change No.: f6954da | Title: livedisplay: Remove tabs in the makefile | Author: Luca Stefani 
+
+Repository : packages/resources/devicesettings/ 
+--------------------
+https://github.com/LineageOS/android_packages_resources_devicesettings
+- Change No.: 3cc11e1 | Title: Automatic translation import | Author: Michael W 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/WundergroundWeatherProvider/
+- Change No.: 949058a | Title: Automatic translation import | Author: Michael W 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdksamples/weatherproviderservice/YahooWeatherProvider/
+- Change No.: 168a6c2 | Title: Automatic translation import | Author: Michael W 
+
+
+-----------------
+#     03-02-2017
+-----------------
+
+Repository : bootable/recovery/ 
+--------------------
+https://github.com/LineageOS/android_bootable_recovery
+- Change No.: c82175b | Title: Fix "ordered comparison between pointer and zero". | Author: MinSeong Kim 
+
+Repository : device/qcom/common/ 
+--------------------
+https://github.com/LineageOS/android_device_qcom_common
+- Change No.: e16dea2 | Title: common: remove extractors | Author: Dan Pasanen 
+
+Repository : external/nano/ 
+--------------------
+https://github.com/LineageOS/android_external_nano
+- Change No.: 33a3ca6 | Title: nano: Don't ignore config.h & revision.h | Author: Luca Stefani 
+- Change No.: c511262 | Title: nano: Include stdio.h | Author: Rashed Abdel-Tawab 
+- Change No.: b8d4fcb | Title: nano: Fix build under android | Author: Luca Stefani 
+- Change No.: 8651670 | Title: nano: Add config.h and revision.h | Author: Luca Stefani 
+- Change No.: 88e50a1 | Title: nano: Add android makefile | Author: Luca Stefani 
+- Change No.: 398f609 | Title: nano: Add nanorc | Author: Luca Stefani 
+
+Repository : hardware/qcom/fm/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_fm
+- Change No.: d206506 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/AudioFX/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_AudioFX
+- Change No.: 15a3618 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Bluetooth/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Bluetooth
+- Change No.: c01c8f0 | Title: AVRCP: Add null pointer check | Author: Gabriele M 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: 226a94e | Title: Update style to match the one of Settings | Author: Gabriele M 
+
+Repository : packages/apps/Calendar/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Calendar
+- Change No.: 903f21f | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Camera2/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Camera2
+- Change No.: dd44706 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/CertInstaller/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_CertInstaller
+- Change No.: 564b511 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/DeskClock/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_DeskClock
+- Change No.: 92a9eaa | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Eleven/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Eleven
+- Change No.: 9dca75c | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Email/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Email
+- Change No.: d39fd55 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/ExactCalculator/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_ExactCalculator
+- Change No.: fe8750c | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Gallery2/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Gallery2
+- Change No.: bd422e3 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/HTMLViewer/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_HTMLViewer
+- Change No.: 994555e | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/KeyChain/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_KeyChain
+- Change No.: 6028cc7 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/LockClock/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_LockClock
+- Change No.: 7e84bff | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/ManagedProvisioning/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_ManagedProvisioning
+- Change No.: 39d4bce | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Messaging/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Messaging
+- Change No.: 74222c3 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Nfc/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Nfc
+- Change No.: e2790c8 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/PackageInstaller/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_PackageInstaller
+- Change No.: 8cb86a7 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Profiles/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Profiles
+- Change No.: 560fabf | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Recorder/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Recorder
+- Change No.: 60000a4 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Stk/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Stk
+- Change No.: 5190806 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Tag/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Tag
+- Change No.: c8f1f62 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/Terminal/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Terminal
+- Change No.: b1e9212 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/UnifiedEmail/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_UnifiedEmail
+- Change No.: e009b45 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/apps/WallpaperPicker/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_WallpaperPicker
+- Change No.: cda46d3 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/inputmethods/LatinIME/ 
+--------------------
+https://github.com/LineageOS/android_packages_inputmethods_LatinIME
+- Change No.: a876e0f | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/providers/BookmarkProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_BookmarkProvider
+- Change No.: 7217810 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/providers/CallLogProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_CallLogProvider
+- Change No.: e8ab293 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/providers/ContactsProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_ContactsProvider
+- Change No.: c591c90 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/providers/DataUsageProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_DataUsageProvider
+- Change No.: aae8c60 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/providers/DownloadProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_DownloadProvider
+- Change No.: 2f32c14 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/providers/MediaProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_MediaProvider
+- Change No.: d202ca3 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/providers/TelephonyProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_TelephonyProvider
+- Change No.: e683619 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/providers/UserDictionaryProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_UserDictionaryProvider
+- Change No.: 959822e | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/providers/WeatherProvider/ 
+--------------------
+https://github.com/LineageOS/android_packages_providers_WeatherProvider
+- Change No.: 8ea6ba7 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/screensavers/Basic/ 
+--------------------
+https://github.com/LineageOS/android_packages_screensavers_Basic
+- Change No.: fa7caf5 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/screensavers/PhotoTable/ 
+--------------------
+https://github.com/LineageOS/android_packages_screensavers_PhotoTable
+- Change No.: 8da9209 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/services/CMAudioService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_CMAudioService
+- Change No.: 9a7f56d | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/services/LiveLockScreenService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_LiveLockScreenService
+- Change No.: a3b52e2 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/services/Telecomm/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telecomm
+- Change No.: 6b1eac4 | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/services/WeatherService/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_WeatherService
+- Change No.: 57658ce | Title: Automatic translation import | Author: Michael W 
+
+Repository : packages/wallpapers/LivePicker/ 
+--------------------
+https://github.com/LineageOS/android_packages_wallpapers_LivePicker
+- Change No.: aa48c07 | Title: Automatic translation import | Author: Michael W 
+
+Repository : platform_manifest/ 
+--------------------
+https://github.com/TeamHorizon/platform_manifest
+- Change No.: 580755b | Title: manifest: update substratum remote | Author: MZO 
+
+Repository : system/core/ 
+--------------------
+https://github.com/TeamHorizon/android_system_core
+- Change No.: 51a1d7d | Title: debug: show XenonHD version | Author: dadi11 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdk
+- Change No.: bc9c84d | Title: CMPartsPreference: Update PreferenceScreen theme | Author: Gabriele M 
+
+Repository : vendor/qcom/binaries/ 
+--------------------
+https://github.com/TeamHorizon/proprietary_vendor_qcom_binaries
+- Change No.: 63fbdf1 | Title: done | Author: Dan Pasanen 
+
+Repository : vendor/xenonhd/ 
+--------------------
+https://github.com/TeamHorizon/vendor_xenonhd
+- Change No.: adbbd0d | Title: xenonhd: add localization % to readme | Author: Daniel Sikorski 
+- Change No.: 892a939 | Title: Add: OnePlus2 maintainer | Author: MZO 
+
+
+-----------------
+#     03-01-2017
+-----------------
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: dfc2ca4 | Title: Hotspot Tile: longclick should open Tethering settings | Author: Jake Whatley 
+- Change No.: 1ea80a1 | Title: Better QS detail clip animation | Author: dongwan0605.kim 
+- Change No.: 3994d49 | Title: [1/2] base: SystemUI: config to hide status bar on lock screen | Author: maxwen 
+
+Repository : hardware/qcom/audio-caf/msm8974/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_audio
+- Change No.: 610f5f5 | Title: Revert "visualizer: do not apply calibration on audio routed to afe proxy" | Author: Michael Sky 
+
+Repository : packages/apps/CellBroadcastReceiver/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_CellBroadcastReceiver
+- Change No.: 6360a26 | Title: CellBroadcastReceiver: Match defaults  for channel 60 alerts to bool config | Author: Arne Coucheron 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: f7f442f | Title: Settings: fix fingerprint settings commits | Author: dadi11 
+- Change No.: b47e25b | Title: Bluetooth: Underp "Accept all files" setting | Author: Ricardo Cerqueira 
+- Change No.: 56c52f5 | Title: [2/2] SystemUI: config to hide status bar on lock screen | Author: maxwen 
+
+Repository : packages/services/Telephony/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telephony
+- Change No.: 3a782aa | Title: CallFeatureSettings: Only show call barring option if QTI package installed | Author: Arne Coucheron 
+
+
+-----------------
+#     02-28-2017
+-----------------
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: 4d2b0a5 | Title: Fingerprint authentication vibration [1/2] | Author: beanstown106 
+- Change No.: 29dd0ca | Title: [1/3]frameworks/base: add "Accept all files" option for incoming files via BT | Author: Hamster Tian 
+- Change No.: 7500692 | Title: Disable quick pulldown by default | Author: Gabriele M 
+- Change No.: 2e0b490 | Title: OMS: Add hide annotation to MODIFY_OVERLAYS permission | Author: Evan Anderson 
+- Change No.: 8bf2d17 | Title: Change Heads up QS tile longpress intent to notifications | Author: Alex Cruz 
+- Change No.: f6c9148 | Title: Screenshot tile: add icon for the Partial screenshot mode | Author: kantjer 
+- Change No.: 2074fd2 | Title: Add Sound tile | Author: Yoshinori Hirano 
+
+Repository : frameworks/opt/net/wifi/ 
+--------------------
+https://github.com/LineageOS/android_frameworks_opt_net_wifi
+- Change No.: 59c3951 | Title: Revert "Wifi: provide runtime logging option in WifiP2pService" | Author: Luca Stefani 
+
+Repository : hardware/qcom/audio-caf/msm8952/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_audio
+- Change No.: 27c23ef | Title: Merge remote-tracking branch 'caf/LA.BR.1.3.6_rb1.14' into HEAD | Author: Luca Stefani 
+
+Repository : hardware/qcom/display-caf/msm8952/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_display
+- Change No.: 7b73a21 | Title: Merge remote-tracking branch 'caf/LA.BR.1.3.6_rb1.14' into HEAD | Author: Luca Stefani 
+
+Repository : hardware/qcom/media-caf/msm8952/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_media
+- Change No.: 726d5c5 | Title: Merge remote-tracking branch 'caf/LA.BR.1.3.6_rb1.14' into HEAD | Author: Luca Stefani 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: 9b34c32 | Title: Disable quick pulldown by default | Author: Gabriele M 
+
+Repository : packages/apps/Contacts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Contacts
+- Change No.: 83cb6ed | Title: Contacts: Fix strings | Author: Michael W 
+
+Repository : vendor/xenonhd/ 
+--------------------
+https://github.com/TeamHorizon/vendor_xenonhd
+- Change No.: ba8b0c2 | Title: backuptool: Preserve the SELinux context of the files | Author: Gabriele M 
+- Change No.: 1668c7c | Title: vendor: remove old apns symlink | Author: Dan Pasanen 
+- Change No.: 4a1e11a | Title: Disable quick pulldown by default | Author: Gabriele M 
+
+
+-----------------
+#     02-27-2017
+-----------------
+
+Repository : build/ 
+--------------------
+https://github.com/TeamHorizon/android_build
+- Change No.: 9ed7a5c | Title: build: copy recovery.img to BOOTABLE_IMAGES only when it's actually used | Author: Flex1911 
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: e3f04d8 | Title: Add VOLTE icon | Author: xyyx 
+
+Repository : frameworks/opt/net/wifi/ 
+--------------------
+https://github.com/LineageOS/android_frameworks_opt_net_wifi
+- Change No.: 1cfcdc1 | Title: WiFi: Fix possible NPE | Author: Michael W 
+
+Repository : hardware/qcom/audio-caf/msm8974/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_audio
+- Change No.: 45552c3 | Title: hal: Remove duplicated HFP if branch (mismerge) | Author: Hendrik Hagendorn 
+
+Repository : hardware/qcom/display-caf/apq8084/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_display
+- Change No.: 5e179af | Title: Revert "gralloc: Add a switch to use 16 byte pixel alignment" | Author: Ethan Chen 
+- Change No.: 90b39d3 | Title: Merge remote-tracking branch 'caf/LA.BF.2.1.2_rb1.16' into cm-14.1-caf-8084 | Author: Corinna Vinschen 
+- Change No.: 2e2f18a | Title: gralloc: Add a switch to use 16 byte pixel alignment | Author: Skrilax_CZ 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: 37b7e6d | Title: CMParts: activate nfc trigger for system profiles | Author: Maxim Becker 
+
+Repository : system/core/ 
+--------------------
+https://github.com/TeamHorizon/android_system_core
+- Change No.: 0042013 | Title: fs_mgr: fix clang static analyzer warning | Author: Jin Qian 
+
+Repository : vendor/xenonhd/ 
+--------------------
+https://github.com/TeamHorizon/vendor_xenonhd
+- Change No.: 032d17e | Title: backuptool: Don't rely on the order of the elements in the list | Author: Gabriele M 
+
+
+-----------------
+#     02-26-2017
+-----------------
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: 9ae3cb2 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: 969cf96 | Title: OMS7: Rootless Security Update Preparation for March 2017 | Author: Nicholas Chum 
+- Change No.: 4562151 | Title: Unlock keystore with fingerprint after reboot (1/2) | Author: xyyx 
+
+Repository : hardware/qcom/audio-caf/msm8960/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_audio
+- Change No.: 51d45fa | Title: audio: acquire lock for compress voip close input/output stream | Author: Divya Narayanan Poojary 
+- Change No.: 727d95e | Title: hal: Update active input stream for Voip when voip input started | Author: kunleiz 
+
+Repository : hardware/qcom/media-caf/apq8084/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_media
+- Change No.: e1c1f5a | Title: Merge remote-tracking branch 'caf/LA.BF.2.1.2_rb1.16' into LA.BF.2.1.2_rb1.16 | Author: Corinna Vinschen 
+
+Repository : kernel/huawei/kiwi/ 
+--------------------
+https://github.com/LineageOS/android_kernel_huawei_kiwi
+- Change No.: fd201c6 | Title: ANDROID: sdcardfs: Allow non-owners to touch | Author: Daniel Rosenberg 
+- Change No.: 7bc7415 | Title: ANDROID: sdcardfs: Refactor configfs interface | Author: Daniel Rosenberg 
+- Change No.: 522ee02 | Title: ANDROID: sdcardfs: add support for user permission isolation | Author: Daniel Rosenberg 
+- Change No.: 6c18673 | Title: ANDROID: sdcardfs: Remove redundant operation | Author: Daniel Rosenberg 
+- Change No.: 0329f13 | Title: ANDROID: sdcardfs: Add GID Derivation to sdcardfs | Author: Daniel Rosenberg 
+- Change No.: 8c19165 | Title: ANDROID: sdcardfs: switch to full_name_hash and qstr | Author: Daniel Rosenberg 
+- Change No.: 361bc2e | Title: ANDROID: sdcardfs: Switch strcasecmp for internal call | Author: Daniel Rosenberg 
+- Change No.: 047c45d | Title: ANDROID: sdcardfs: Fix incorrect hash | Author: Daniel Rosenberg 
+- Change No.: 90ed325 | Title: ANDROID: sdcardfs: Add missing path_put | Author: Daniel Rosenberg 
+- Change No.: 2b65446 | Title: ANDROID: sdcardfs: Don't bother deleting freelist | Author: Daniel Rosenberg 
+- Change No.: 94cc0b3 | Title: Revert "sdcardfs: Flag files as non-mappable" | Author: Michael W 
+- Change No.: a4e771a | Title: ANDROID: sdcardfs: implement vm_ops->page_mkwrite | Author: Daniel Rosenberg 
+- Change No.: 9642348 | Title: ANDROID: sdcardfs: support direct-IO (DIO) operations | Author: Daniel Rosenberg 
+- Change No.: 1af3556 | Title: time: Remove CONFIG_TIMER_STATS | Author: Kees Cook 
+- Change No.: 4499cc1 | Title: sctp: avoid BUG_ON on sctp_wait_for_sndbuf | Author: Marcelo Ricardo Leitner 
+- Change No.: 824cf00 | Title: dccp: fix freeing skb too early for IPV6_RECVPKTINFO | Author: Andrey Konovalov 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: 0729a7b | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Contacts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Contacts
+- Change No.: 859655c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/ContactsCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_ContactsCommon
+- Change No.: f0ef905 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Dialer/ 
+--------------------
+https://github.com/TeamHorizon/packages_apps_Dialer
+- Change No.: 7f75eb0 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/PhoneCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_PhoneCommon
+- Change No.: 434818f | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 5714c53 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: 2a7153e | Title: Fingerprint authentication vibration [2/2] | Author: beanstown106 
+- Change No.: d3e27dd | Title: Unlock keystore with fingerprint after reboot (2/2) | Author: xyyx 
+- Change No.: 1cdb85c | Title: [3/3]Settings: add "Accept all files" option for incoming files via BT | Author: Hamster Tian 
+
+Repository : packages/apps/Snap/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Snap
+- Change No.: 0196867 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: 37e0d9a | Title: Allow to re-open Snap from recent menu | Author: Gabriele M 
+- Change No.: cccf75a | Title: Focus only when tapping the preview | Author: Gabriele M 
+
+Repository : system/bt/ 
+--------------------
+https://github.com/LineageOS/android_system_bt
+- Change No.: e17d286 | Title: Revert "BT: Modified logging framework for unified logging" | Author: Arne Coucheron 
+
+Repository : system/sepolicy/ 
+--------------------
+https://github.com/TeamHorizon/android_system_sepolicy
+- Change No.: 7771d46 | Title: Merge tag 'android-7.1.1_r21' into cm-14.1 | Author: Dan Pasanen 
+- Change No.: 852a015 | Title: Introduce sepolicy exceptions for theme assets | Author: d34d 
+- Change No.: a6a4cb6 | Title: sepolicy: fix themed boot animation | Author: bigrushdog 
+- Change No.: c862b55 | Title: sepolicy: fix themed sounds | Author: George G 
+- Change No.: 613472e | Title: initial policy edits for masquerade to operate rootless | Author: Surge1223 
+- Change No.: 132e373 | Title: sepolicy: rename masquerade domain and allow JobService in system_server | Author: Surge1223 
+- Change No.: 1346eac | Title: sepolicy: allow masquerade to read and write theme assets | Author: Surge1223 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdk
+- Change No.: b85aa4d | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/xenonhd/ 
+--------------------
+https://github.com/TeamHorizon/vendor_xenonhd
+- Change No.: f4dc6b9 | Title: backuptool: Preserve symlinks | Author: Gabriele M 
+
+
+-----------------
+#     02-25-2017
+-----------------
+
+Repository : device/huawei/kiwi/ 
+--------------------
+https://github.com/maxprzemo/android_device_huawei_kiwi-1
+- Change No.: 72d7074 | Title: No SuperSu app | Author: maxprzemo 
+- Change No.: 26bfd90 | Title: Merge pull request #2 from LineageOS/cm-14.1 | Author: Przemysław 
+
+Repository : frameworks/base/ 
+--------------------
+https://github.com/TeamHorizon/platform_frameworks_base
+- Change No.: bcc3585 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: b165cf8 | Title: SystemUI: Add config to disable HumanInteractionClassifier | Author: Gabriele M 
+
+Repository : hardware/qcom/audio-caf/msm8952/ 
+--------------------
+https://github.com/LineageOS/android_hardware_qcom_audio
+- Change No.: 91d32b4 | Title: hal: limit ADM sample rate at 48kHz for speaker | Author: Ramjee Singh 
+
+Repository : packages/apps/Bluetooth/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Bluetooth
+- Change No.: f355923 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: d484cab | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/CMParts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_CMParts
+- Change No.: ce4f16c | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: 9b74f2f | Title: CMParts: KeyHandler: Add User to broadcast | Author: Michael W 
+- Change No.: b718631 | Title: CMParts: Restructure status bar settings | Author: Hendrik Hagendorn 
+
+Repository : packages/apps/Calendar/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Calendar
+- Change No.: 4a2393e | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/CellBroadcastReceiver/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_CellBroadcastReceiver
+- Change No.: 346b2a3 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Contacts/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Contacts
+- Change No.: fe49625 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/ContactsCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_ContactsCommon
+- Change No.: ad857cd | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Dialer/ 
+--------------------
+https://github.com/TeamHorizon/packages_apps_Dialer
+- Change No.: 842823d | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Email/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Email
+- Change No.: e29763c | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/FlipFlap/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_FlipFlap
+- Change No.: aa04fce | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Messaging/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Messaging
+- Change No.: 370f473 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/PhoneCommon/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_PhoneCommon
+- Change No.: 9ea56f5 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Recorder/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_Recorder
+- Change No.: 7a11f99 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/apps/Settings/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Settings
+- Change No.: 0c990c4 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: a682cc8 | Title: Fix TTS engine label text wrapping | Author: Gabriele M 
+
+Repository : packages/apps/Snap/ 
+--------------------
+https://github.com/TeamHorizon/android_packages_apps_Snap
+- Change No.: 67515c3 | Title: Automatic translation import | Author: Abhisek Devkota 
+- Change No.: 601955d | Title: Snap: CaptureModule: lock exposure also when precapture trigger is started | Author: codeworkx 
+
+Repository : packages/apps/UnifiedEmail/ 
+--------------------
+https://github.com/LineageOS/android_packages_apps_UnifiedEmail
+- Change No.: a2eadaa | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/resources/devicesettings/ 
+--------------------
+https://github.com/LineageOS/android_packages_resources_devicesettings
+- Change No.: 587aaa1 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : packages/services/Telephony/ 
+--------------------
+https://github.com/LineageOS/android_packages_services_Telephony
+- Change No.: 119c51f | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/cmsdk/ 
+--------------------
+https://github.com/TeamHorizon/cm_platform_sdk
+- Change No.: 1b191b0 | Title: Automatic translation import | Author: Abhisek Devkota 
+
+Repository : vendor/qcom/opensource/cryptfs_hw/ 
+--------------------
+https://github.com/LineageOS/android_vendor_qcom_opensource_cryptfs_hw
+- Change No.: 144e832 | Title: cryptfs_hw: Add support for is_hw_fde_enabled routine | Author: AnilKumar Chimata 
+
+
